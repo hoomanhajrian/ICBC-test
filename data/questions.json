@@ -1,0 +1,4557 @@
+[
+  {
+    "id": "q001",
+    "chapter": 2,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "In the see-think-do model, what does total stopping distance measure?",
+    "options": [
+      "Distance from seeing a hazard to the vehicle coming to a complete stop",
+      "Distance from pressing the brake pedal to the vehicle stopping",
+      "Distance traveled during braking time only",
+      "Distance from recognizing a hazard to lifting off the accelerator"
+    ],
+    "correct_answer": "Distance from seeing a hazard to the vehicle coming to a complete stop",
+    "explanation": "The manual defines total stopping distance as the distance traveled from seeing a hazard through perception, reaction, brake lag, and braking time until the vehicle stops."
+  },
+  {
+    "id": "q002",
+    "chapter": 2,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "About how long is an average driver's reaction time?",
+    "options": [
+      "About 3/4 of a second",
+      "About 1/4 of a second",
+      "About 1.5 seconds",
+      "About 2 seconds"
+    ],
+    "correct_answer": "About 3/4 of a second",
+    "explanation": "The manual states an average driver's reaction time is about three-quarters of a second."
+  },
+  {
+    "id": "q003",
+    "chapter": 2,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "What is the approximate brake lag time for air brakes?",
+    "options": [
+      "About 4/10 of a second",
+      "About 1/10 of a second",
+      "About 1 second",
+      "About 2 seconds"
+    ],
+    "correct_answer": "About 4/10 of a second",
+    "explanation": "The manual notes a brake lag of approximately 0.4 seconds before air brakes begin to function."
+  },
+  {
+    "id": "q004",
+    "chapter": 2,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "Which items are included in total stopping time?",
+    "options": [
+      "Perception time, reaction time, brake lag time, and braking time",
+      "Perception time and braking time only",
+      "Reaction time and braking time only",
+      "Brake lag time and braking time only"
+    ],
+    "correct_answer": "Perception time, reaction time, brake lag time, and braking time",
+    "explanation": "Total stopping time includes perception time, reaction time, brake lag time, and braking time."
+  },
+  {
+    "id": "q005",
+    "chapter": 2,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "At highway speeds, how far behind should drivers of buses, trucks, and other large heavy vehicles follow?",
+    "options": [
+      "Never less than five seconds",
+      "At least two seconds",
+      "At least three seconds",
+      "At least one second"
+    ],
+    "correct_answer": "Never less than five seconds",
+    "explanation": "The manual says large heavy vehicles should never be less than five seconds behind at highway speeds."
+  },
+  {
+    "id": "q006",
+    "chapter": 2,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "What following-distance rule should passenger cars and light trucks use?",
+    "options": [
+      "Two-second rule",
+      "Three-second rule",
+      "Five-second rule",
+      "Seven-second rule"
+    ],
+    "correct_answer": "Two-second rule",
+    "explanation": "The manual instructs passenger cars and light trucks to use the two-second rule."
+  },
+  {
+    "id": "q007",
+    "chapter": 2,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "Doubling vehicle speed requires how much stopping power?",
+    "options": [
+      "Four times the stopping power",
+      "Two times the stopping power",
+      "Three times the stopping power",
+      "Eight times the stopping power"
+    ],
+    "correct_answer": "Four times the stopping power",
+    "explanation": "The speed and weight facts state that doubling speed requires four times the stopping power."
+  },
+  {
+    "id": "q008",
+    "chapter": 2,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "Doubling vehicle weight requires how much stopping power?",
+    "options": [
+      "Two times the stopping power",
+      "Four times the stopping power",
+      "Three times the stopping power",
+      "Eight times the stopping power"
+    ],
+    "correct_answer": "Two times the stopping power",
+    "explanation": "The manual states that doubling vehicle weight requires two times the stopping power."
+  },
+  {
+    "id": "q009",
+    "chapter": 2,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "Doubling both speed and weight requires how much stopping power?",
+    "options": [
+      "Eight times the stopping power",
+      "Four times the stopping power",
+      "Two times the stopping power",
+      "Six times the stopping power"
+    ],
+    "correct_answer": "Eight times the stopping power",
+    "explanation": "The manual states that doubling both speed and weight requires eight times the stopping power."
+  },
+  {
+    "id": "q010",
+    "chapter": 2,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "Compared to cars, trucks and buses have larger brake components, but they still have what?",
+    "options": [
+      "Longer stopping distances",
+      "Shorter stopping distances",
+      "The same stopping distances",
+      "No brake lag time"
+    ],
+    "correct_answer": "Longer stopping distances",
+    "explanation": "The manual notes that despite larger brake components, trucks and buses have longer stopping distances."
+  },
+  {
+    "id": "q011",
+    "chapter": 3,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "Why does driving faster than the traffic flow increase crash risk?",
+    "options": [
+      "It requires more lane changes and rapid decision-making",
+      "It eliminates the need to signal",
+      "It reduces fatigue",
+      "It increases following distance automatically"
+    ],
+    "correct_answer": "It requires more lane changes and rapid decision-making",
+    "explanation": "The manual explains that driving faster than the flow causes more lane changes and quick decisions, increasing error risk."
+  },
+  {
+    "id": "q012",
+    "chapter": 3,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "If you are driving slower than the traffic flow, what should you do on multi-lane roads?",
+    "options": [
+      "Use the right lane",
+      "Use the left lane",
+      "Stay in any lane",
+      "Drive on the shoulder"
+    ],
+    "correct_answer": "Use the right lane",
+    "explanation": "The manual says slower vehicles should use the right lane when unable to keep up with traffic flow."
+  },
+  {
+    "id": "q013",
+    "chapter": 3,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "What is a good safety practice for handling tailgaters?",
+    "options": [
+      "Allow them to pass",
+      "Brake suddenly to warn them",
+      "Increase speed to lose them",
+      "Ignore them and maintain minimal spacing"
+    ],
+    "correct_answer": "Allow them to pass",
+    "explanation": "The manual recommends allowing tailgaters to pass as a safer practice."
+  },
+  {
+    "id": "q014",
+    "chapter": 3,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "Why might a tailgater be hard to see in a large vehicle?",
+    "options": [
+      "They may be in the blind spot directly behind you",
+      "They are always on the left side",
+      "They are too far away to see",
+      "They are above the mirror line"
+    ],
+    "correct_answer": "They may be in the blind spot directly behind you",
+    "explanation": "The manual notes that large-vehicle drivers rely on mirrors and may not see tailgaters in the blind spot directly behind."
+  },
+  {
+    "id": "q015",
+    "chapter": 3,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "On highways, how much space should you leave between large commercial vehicles?",
+    "options": [
+      "At least 60 m (200 ft)",
+      "At least 20 m (65 ft)",
+      "At least 100 m (330 ft)",
+      "At least 10 m (33 ft)"
+    ],
+    "correct_answer": "At least 60 m (200 ft)",
+    "explanation": "The manual advises leaving at least 60 m between large commercial vehicles on highways."
+  },
+  {
+    "id": "q016",
+    "chapter": 3,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "Vehicles traveling at less than 40 km/h should display which sign?",
+    "options": [
+      "Red triangle slow moving vehicle sign",
+      "Flashing amber beacon only",
+      "School bus stop sign",
+      "Oversize load sign"
+    ],
+    "correct_answer": "Red triangle slow moving vehicle sign",
+    "explanation": "The manual states that vehicles or combinations traveling under 40 km/h should display a red triangle slow moving vehicle sign."
+  },
+  {
+    "id": "q017",
+    "chapter": 3,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "What is a good safety practice when driving slowly up or down a hill?",
+    "options": [
+      "Use four-way flashers",
+      "Turn off all lights",
+      "Drive in the left lane",
+      "Avoid checking mirrors"
+    ],
+    "correct_answer": "Use four-way flashers",
+    "explanation": "The manual notes it is good practice to use four-way flashers when driving slowly up or down a hill."
+  },
+  {
+    "id": "q018",
+    "chapter": 3,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "In a construction zone, which action is recommended?",
+    "options": [
+      "Avoid changing lanes and leave extra following distance",
+      "Change lanes frequently to maintain speed",
+      "Follow as closely as possible",
+      "Use the shoulder to pass"
+    ],
+    "correct_answer": "Avoid changing lanes and leave extra following distance",
+    "explanation": "The manual advises avoiding lane changes and leaving plenty of following distance in construction zones."
+  },
+  {
+    "id": "q019",
+    "chapter": 3,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "What does the manual call the section of road a vehicle travels through before it can stop?",
+    "options": [
+      "The danger zone",
+      "The buffer zone",
+      "The safety pocket",
+      "The reaction zone"
+    ],
+    "correct_answer": "The danger zone",
+    "explanation": "The manual defines the danger zone as the section of road traveled before the vehicle can stop."
+  },
+  {
+    "id": "q020",
+    "chapter": 3,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "What happens to your danger zone as speed increases?",
+    "options": [
+      "It becomes longer",
+      "It becomes shorter",
+      "It disappears",
+      "It remains the same"
+    ],
+    "correct_answer": "It becomes longer",
+    "explanation": "The manual states that as speed increases, the length of your danger zone increases."
+  },
+  {
+    "id": "q021",
+    "chapter": 3,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "How can you reduce your danger zone when a hazard may develop?",
+    "options": [
+      "Slow down and cover the brake pedal",
+      "Accelerate to clear the area",
+      "Sound the horn and maintain speed",
+      "Move into the left lane immediately"
+    ],
+    "correct_answer": "Slow down and cover the brake pedal",
+    "explanation": "The manual says you reduce the danger zone by slowing down and covering the brake pedal when hazards develop."
+  },
+  {
+    "id": "q022",
+    "chapter": 3,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "Which behavior is listed as a professional driver habit?",
+    "options": [
+      "Continuously planning an escape route",
+      "Relying on other drivers to yield",
+      "Following closely to discourage cut-ins",
+      "Avoiding mirror checks"
+    ],
+    "correct_answer": "Continuously planning an escape route",
+    "explanation": "The manual lists continuously planning an escape route as a professional driver practice."
+  },
+  {
+    "id": "q023",
+    "chapter": 11,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "What road marking identifies reserved lanes?",
+    "options": [
+      "A white diamond on the road surface",
+      "A red circle with a slash",
+      "A blue square with a bus",
+      "A yellow triangle"
+    ],
+    "correct_answer": "A white diamond on the road surface",
+    "explanation": "The manual states that a white diamond painted on the road surface marks reserved lanes."
+  },
+  {
+    "id": "q024",
+    "chapter": 11,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "When you are in a designated lane with lane-use arrows, what must you do?",
+    "options": [
+      "Follow the direction indicated by the arrows",
+      "Choose any direction if the way is clear",
+      "Change lanes in the intersection",
+      "Stop and wait for a gap"
+    ],
+    "correct_answer": "Follow the direction indicated by the arrows",
+    "explanation": "Lane-use signs require drivers in the designated lane to follow the arrows and not change lanes in the intersection."
+  },
+  {
+    "id": "q025",
+    "chapter": 11,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "Most warning signs are what color and shape?",
+    "options": [
+      "Yellow and diamond-shaped",
+      "Blue and square",
+      "Green and rectangular",
+      "White and circular"
+    ],
+    "correct_answer": "Yellow and diamond-shaped",
+    "explanation": "The manual states that most warning signs are yellow and diamond-shaped."
+  },
+  {
+    "id": "q026",
+    "chapter": 11,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "What does a school zone sign with a tab underneath typically indicate?",
+    "options": [
+      "The speed limit and the hours it is in effect",
+      "That school buses must stop",
+      "That passing is always allowed",
+      "That the zone is only active on weekends"
+    ],
+    "correct_answer": "The speed limit and the hours it is in effect",
+    "explanation": "The manual notes that the tab under a school zone sign indicates the speed limit and the hours it applies."
+  },
+  {
+    "id": "q027",
+    "chapter": 11,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "What is the posted speed for a playground zone sign in the manual?",
+    "options": [
+      "30 km/h from dawn to dusk",
+      "50 km/h during school hours",
+      "40 km/h at all times",
+      "30 km/h only on school days"
+    ],
+    "correct_answer": "30 km/h from dawn to dusk",
+    "explanation": "The manual shows a playground zone sign with a 30 km/h limit in effect from dawn to dusk."
+  },
+  {
+    "id": "q028",
+    "chapter": 11,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "What should you do at a pedestrian-activated crosswalk when the light is flashing?",
+    "options": [
+      "Prepare to stop",
+      "Accelerate through quickly",
+      "Stop only if a pedestrian is already in the lane",
+      "Ignore the signal if traffic is light"
+    ],
+    "correct_answer": "Prepare to stop",
+    "explanation": "The manual states that a flashing pedestrian-activated crosswalk light means you should prepare to stop."
+  },
+  {
+    "id": "q029",
+    "chapter": 11,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "What must you do at a school crosswalk sign?",
+    "options": [
+      "Yield to pedestrians and follow a crossing guard's directions",
+      "Stop only if the crosswalk is painted",
+      "Proceed if no children are visible",
+      "Sound your horn to warn pedestrians"
+    ],
+    "correct_answer": "Yield to pedestrians and follow a crossing guard's directions",
+    "explanation": "The manual indicates you must yield to pedestrians and follow the crossing guard at school crosswalks."
+  },
+  {
+    "id": "q030",
+    "chapter": 11,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "Where are turn control signs mounted, and what do they require?",
+    "options": [
+      "Directly above the intersection, and you must follow the arrow",
+      "On the roadway, and you may choose any direction",
+      "On the shoulder, and they are advisory only",
+      "On the rear of buses, and they indicate right-of-way"
+    ],
+    "correct_answer": "Directly above the intersection, and you must follow the arrow",
+    "explanation": "The manual explains that turn control signs are mounted above the intersection and you must follow the arrow."
+  },
+  {
+    "id": "q031",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "3"
+    ],
+    "question": "Why are loaded vehicles more likely to roll over?",
+    "options": [
+      "They have a higher center of gravity and need slower turns",
+      "They have shorter stopping distances",
+      "They accelerate faster",
+      "They are lighter on curves"
+    ],
+    "correct_answer": "They have a higher center of gravity and need slower turns",
+    "explanation": "The manual states that loaded vehicles are more likely to roll over and should be driven slowly around curves."
+  },
+  {
+    "id": "q032",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "3"
+    ],
+    "question": "How should cargo be positioned to reduce rollover risk?",
+    "options": [
+      "As close to the center of the rig as possible",
+      "As high as possible for visibility",
+      "As far back as possible",
+      "As close to the side rails as possible"
+    ],
+    "correct_answer": "As close to the center of the rig as possible",
+    "explanation": "The manual recommends keeping cargo close to the center of the rig to prevent leaning and rollovers."
+  },
+  {
+    "id": "q033",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "3"
+    ],
+    "question": "What happens as the height of a load increases?",
+    "options": [
+      "The center of gravity rises and rollover risk increases",
+      "The center of gravity lowers and rollover risk decreases",
+      "Braking becomes easier",
+      "Offtracking is eliminated"
+    ],
+    "correct_answer": "The center of gravity rises and rollover risk increases",
+    "explanation": "The manual states that higher loads raise the center of gravity and increase rollover risk."
+  },
+  {
+    "id": "q034",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "3"
+    ],
+    "question": "When towing doubles, which trailer is most likely to roll over?",
+    "options": [
+      "The last trailer",
+      "The first trailer",
+      "The tractor",
+      "Both equally"
+    ],
+    "correct_answer": "The last trailer",
+    "explanation": "The manual notes that when towing two trailers, the last trailer is most likely to roll over."
+  },
+  {
+    "id": "q035",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "3"
+    ],
+    "question": "What driving style is recommended when towing doubles?",
+    "options": [
+      "Smooth acceleration, braking, and steering",
+      "Rapid acceleration to reduce time on curves",
+      "Hard braking to keep trailers straight",
+      "Frequent lane changes to keep speed"
+    ],
+    "correct_answer": "Smooth acceleration, braking, and steering",
+    "explanation": "The manual advises driving smoothly when towing two trailers."
+  },
+  {
+    "id": "q036",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "3"
+    ],
+    "question": "When towing doubles, what should you do about following distance?",
+    "options": [
+      "Allow extra following distance and time",
+      "Reduce following distance to maintain control",
+      "Use the same distance as a single trailer",
+      "Follow closely in the right lane"
+    ],
+    "correct_answer": "Allow extra following distance and time",
+    "explanation": "The manual recommends extra following distance when towing doubles."
+  },
+  {
+    "id": "q037",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "3"
+    ],
+    "question": "What does the manual say about safe speed when towing multiple trailers?",
+    "options": [
+      "A safe speed for a single trailer may be too fast for multiple trailers",
+      "The same speed is safe regardless of trailer count",
+      "Higher speed reduces sway risk",
+      "Speed is determined only by engine power"
+    ],
+    "correct_answer": "A safe speed for a single trailer may be too fast for multiple trailers",
+    "explanation": "The manual warns that speeds safe for a single trailer may be too fast when towing multiple trailers."
+  },
+  {
+    "id": "q038",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "3"
+    ],
+    "question": "When towing doubles, what should you watch for regarding lane position?",
+    "options": [
+      "More offtrack in turns, so stay centered in the lane",
+      "Less offtrack, so you can hug the curb",
+      "No offtrack if you steer sharply",
+      "Only the tractor offtracks"
+    ],
+    "correct_answer": "More offtrack in turns, so stay centered in the lane",
+    "explanation": "The manual notes there is more offtrack when towing two trailers, so stay centered."
+  },
+  {
+    "id": "q039",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "3"
+    ],
+    "question": "How should different trailer weights be arranged when coupling?",
+    "options": [
+      "Couple the heavier trailer to the tractor with the lighter trailer behind",
+      "Put the heavier trailer last",
+      "Alternate weight by axle count",
+      "It does not matter"
+    ],
+    "correct_answer": "Couple the heavier trailer to the tractor with the lighter trailer behind",
+    "explanation": "The manual instructs to couple the heavier trailer to the tractor with the lighter trailer behind."
+  },
+  {
+    "id": "q040",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "3"
+    ],
+    "question": "What should you do before coupling trailers that have spring brakes?",
+    "options": [
+      "Make sure the spring brakes are applied",
+      "Release the spring brakes",
+      "Drain the air tanks completely",
+      "Disconnect the electrical cable"
+    ],
+    "correct_answer": "Make sure the spring brakes are applied",
+    "explanation": "The manual says that if the trailers have spring brakes, make sure they are applied before coupling."
+  },
+  {
+    "id": "q041",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "3"
+    ],
+    "question": "What must you do if a trailer does not have spring brakes before coupling?",
+    "options": [
+      "Block the trailer to hold it in position",
+      "Release the service brakes",
+      "Remove the landing gear",
+      "Unhook the dolly"
+    ],
+    "correct_answer": "Block the trailer to hold it in position",
+    "explanation": "The manual states that trailers without spring brakes must be blocked before coupling."
+  },
+  {
+    "id": "q042",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "3"
+    ],
+    "question": "Why should you never unlock a pintle hook with the dolly still under the rear trailer?",
+    "options": [
+      "The dolly tow bar may fly up and cause injury",
+      "It prevents the trailer from rolling",
+      "It reduces sway on curves",
+      "It will damage the brake drums"
+    ],
+    "correct_answer": "The dolly tow bar may fly up and cause injury",
+    "explanation": "The manual warns that unlocking the pintle hook with the dolly under the trailer can cause the tow bar to fly up."
+  },
+  {
+    "id": "q043",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "3"
+    ],
+    "question": "If a trailer begins to whip or swerve, what should you do?",
+    "options": [
+      "Slow down and stop as soon as it is safe",
+      "Speed up to straighten it out",
+      "Steer sharply into the sway",
+      "Ignore it if it stops"
+    ],
+    "correct_answer": "Slow down and stop as soon as it is safe",
+    "explanation": "The manual instructs drivers to slow down and stop safely to check the cause of whipping or swerving."
+  },
+  {
+    "id": "q044",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "3"
+    ],
+    "question": "Which is listed as a cause of trailer whipping or swerving?",
+    "options": [
+      "Driving too fast for conditions",
+      "Using mirrors frequently",
+      "Keeping loads centered",
+      "Maintaining steady speed"
+    ],
+    "correct_answer": "Driving too fast for conditions",
+    "explanation": "The manual lists driving too fast for conditions as a cause of whipping or swerving."
+  },
+  {
+    "id": "q045",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "3"
+    ],
+    "question": "Which is listed as a cause of trailer whipping or swerving?",
+    "options": [
+      "Sudden steering changes",
+      "Smooth acceleration",
+      "Proper trailer connections",
+      "Evenly spread loads"
+    ],
+    "correct_answer": "Sudden steering changes",
+    "explanation": "The manual lists sudden steering changes as a cause of trailer whipping or swerving."
+  },
+  {
+    "id": "q046",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "3"
+    ],
+    "question": "Which is listed as a cause of trailer whipping or swerving?",
+    "options": [
+      "Improper trailer connections",
+      "Low traffic volume",
+      "Using a pilot car",
+      "Slow lane driving"
+    ],
+    "correct_answer": "Improper trailer connections",
+    "explanation": "The manual lists improper trailer connections as a cause of whipping or swerving."
+  },
+  {
+    "id": "q047",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "3"
+    ],
+    "question": "Which is listed as a cause of trailer whipping or swerving?",
+    "options": [
+      "Shifting loads",
+      "Using four-way flashers",
+      "Driving in the right lane",
+      "Checking mirrors often"
+    ],
+    "correct_answer": "Shifting loads",
+    "explanation": "The manual lists shifting loads as a cause of whipping or swerving."
+  },
+  {
+    "id": "q048",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "3"
+    ],
+    "question": "Which is listed as a cause of trailer whipping or swerving?",
+    "options": [
+      "Dragging brakes or a flat tire",
+      "Stable load placement",
+      "Proper coupling",
+      "Smooth braking"
+    ],
+    "correct_answer": "Dragging brakes or a flat tire",
+    "explanation": "The manual lists dragging brakes and a flat tire as causes of whipping or swerving."
+  },
+  {
+    "id": "q049",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "3"
+    ],
+    "question": "What should you do when parking a trailer?",
+    "options": [
+      "Block the wheels so it cannot roll",
+      "Leave the wheels free so it can settle",
+      "Release all brakes",
+      "Leave the trailer uncoupled on a slope"
+    ],
+    "correct_answer": "Block the wheels so it cannot roll",
+    "explanation": "The manual says to block the wheels of a parked trailer so it cannot roll."
+  },
+  {
+    "id": "q050",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "3"
+    ],
+    "question": "What happens to a parked trailer without spring brakes when its air tanks drain?",
+    "options": [
+      "The brakes release as air pressure drops",
+      "The brakes remain applied",
+      "The brakes apply harder",
+      "The trailer cannot move"
+    ],
+    "correct_answer": "The brakes release as air pressure drops",
+    "explanation": "The manual explains that without spring brakes, brake release occurs as air pressure drops."
+  },
+  {
+    "id": "q051",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "How can a driver help prevent passenger injuries during stops?",
+    "options": [
+      "Keep a safe distance to avoid quick stops",
+      "Follow closely to reduce gaps",
+      "Brake abruptly to warn riders",
+      "Use only the parking brake"
+    ],
+    "correct_answer": "Keep a safe distance to avoid quick stops",
+    "explanation": "The manual states that keeping a safe distance helps avoid sudden stops that can injure passengers."
+  },
+  {
+    "id": "q052",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "What driving style reduces passenger injuries?",
+    "options": [
+      "Smooth starts, stops, and turns",
+      "Rapid acceleration and braking",
+      "Sharp turns to stay on schedule",
+      "Frequent lane changes"
+    ],
+    "correct_answer": "Smooth starts, stops, and turns",
+    "explanation": "The manual emphasizes smooth control of the vehicle to prevent passenger injuries."
+  },
+  {
+    "id": "q053",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "Before leaving the curb, what should you do besides using mirrors?",
+    "options": [
+      "Look over your shoulder to check traffic",
+      "Rely only on the side mirror",
+      "Sound the horn twice",
+      "Move immediately if you are on schedule"
+    ],
+    "correct_answer": "Look over your shoulder to check traffic",
+    "explanation": "The manual instructs drivers to check mirrors and look over their shoulder before leaving the curb."
+  },
+  {
+    "id": "q054",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "What should you verify about passengers before leaving the curb?",
+    "options": [
+      "They are not moving around in the aisle",
+      "They have paid their fare",
+      "They are seated in the front row",
+      "They are all standing"
+    ],
+    "correct_answer": "They are not moving around in the aisle",
+    "explanation": "The manual says to ensure passengers are not moving around before leaving the curb."
+  },
+  {
+    "id": "q055",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "What hazard should you watch for when a bus pulls away from the curb?",
+    "options": [
+      "The rear of the bus swinging over the sidewalk",
+      "The front bumper lifting",
+      "The engine overheating",
+      "The doors unlocking"
+    ],
+    "correct_answer": "The rear of the bus swinging over the sidewalk",
+    "explanation": "The manual warns that the rear of a bus can swing over the sidewalk and hit pedestrians or objects."
+  },
+  {
+    "id": "q056",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "When does the Motor Vehicle Act give public transit buses right-of-way when pulling away?",
+    "options": [
+      "When the bus signals and displays a yield sign in areas under 60 km/h",
+      "Any time the bus turns on hazard lights",
+      "Only on highways",
+      "Only when traffic is stopped"
+    ],
+    "correct_answer": "When the bus signals and displays a yield sign in areas under 60 km/h",
+    "explanation": "The manual states buses have right-of-way when signaling and displaying a yield sign in areas with speed limits below 60 km/h."
+  },
+  {
+    "id": "q057",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "Even with bus right-of-way, what must the driver still do?",
+    "options": [
+      "Ensure it is safe before moving into traffic",
+      "Assume other drivers will always yield",
+      "Pull out without checking",
+      "Sound the horn continuously"
+    ],
+    "correct_answer": "Ensure it is safe before moving into traffic",
+    "explanation": "The manual clarifies that bus drivers must still ensure it is safe before moving into traffic."
+  },
+  {
+    "id": "q058",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "When passing parked cars, which hazard should you watch for?",
+    "options": [
+      "Doors opening suddenly",
+      "Vehicles always staying parked",
+      "No pedestrian activity",
+      "Traffic merging from the left"
+    ],
+    "correct_answer": "Doors opening suddenly",
+    "explanation": "The manual warns about doors opening suddenly on the traffic side of parked cars."
+  },
+  {
+    "id": "q059",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "When passing parked cars, which hazard should you watch for?",
+    "options": [
+      "Pedestrians stepping out from between cars",
+      "Empty sidewalks only",
+      "New lane markings",
+      "Traffic lights changing"
+    ],
+    "correct_answer": "Pedestrians stepping out from between cars",
+    "explanation": "The manual notes pedestrians may step out from between parked cars."
+  },
+  {
+    "id": "q060",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "Which clue suggests a parked car may pull into traffic?",
+    "options": [
+      "Front wheels turned out",
+      "Rear wheels straight",
+      "A clean windshield",
+      "A low fuel gauge"
+    ],
+    "correct_answer": "Front wheels turned out",
+    "explanation": "The manual lists front wheels turned out as a clue a parked car may move into traffic."
+  },
+  {
+    "id": "q061",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "Which clue suggests a parked car may pull into traffic?",
+    "options": [
+      "A driver sitting behind the steering wheel",
+      "A sunshade in the window",
+      "A covered license plate",
+      "A clean bumper"
+    ],
+    "correct_answer": "A driver sitting behind the steering wheel",
+    "explanation": "The manual lists a driver sitting behind the steering wheel as a warning clue."
+  },
+  {
+    "id": "q062",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "Which clue suggests a parked car may pull into traffic?",
+    "options": [
+      "Exhaust from a tail pipe",
+      "A flat tire",
+      "A cracked windshield",
+      "A missing hubcap"
+    ],
+    "correct_answer": "Exhaust from a tail pipe",
+    "explanation": "The manual lists exhaust from a tail pipe as a warning clue."
+  },
+  {
+    "id": "q063",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "Which clue suggests a parked car may pull into traffic?",
+    "options": [
+      "Brake lights, back-up lights, or turn signals",
+      "A parking ticket on the window",
+      "A roof rack",
+      "Tinted windows"
+    ],
+    "correct_answer": "Brake lights, back-up lights, or turn signals",
+    "explanation": "The manual lists brake lights, back-up lights, and turn signals as warning clues."
+  },
+  {
+    "id": "q064",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "When taking on or letting off passengers on a highway, how far away should other drivers be able to see your vehicle?",
+    "options": [
+      "At least 85 metres in front and behind",
+      "At least 30 metres in front only",
+      "At least 50 metres behind only",
+      "At least 10 metres on each side"
+    ],
+    "correct_answer": "At least 85 metres in front and behind",
+    "explanation": "The manual requires stopping where your vehicle is visible from at least 85 metres in front and behind."
+  },
+  {
+    "id": "q065",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "When taking on or letting off passengers on a highway, how much space should you leave to the left for traffic to pass?",
+    "options": [
+      "At least three metres (10 ft)",
+      "At least one metre (3 ft)",
+      "At least five metres (16 ft)",
+      "No space is required"
+    ],
+    "correct_answer": "At least three metres (10 ft)",
+    "explanation": "The manual instructs drivers to leave at least three metres to the left so traffic can pass."
+  },
+  {
+    "id": "q066",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "What should you do whenever it is safe when taking on or letting off passengers on a highway?",
+    "options": [
+      "Pull off the travel portion of the highway",
+      "Stop in the traffic lane",
+      "Block the lane with hazard cones",
+      "Remain in the left lane"
+    ],
+    "correct_answer": "Pull off the travel portion of the highway",
+    "explanation": "The manual says to pull off the travel portion whenever it is safe while passengers board or exit."
+  },
+  {
+    "id": "q067",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "What does the manual say about smoking when passengers under 16 are present?",
+    "options": [
+      "It is illegal to smoke in any motor vehicle",
+      "It is allowed if windows are open",
+      "It is allowed only in taxis",
+      "It is allowed if passengers consent"
+    ],
+    "correct_answer": "It is illegal to smoke in any motor vehicle",
+    "explanation": "The manual states it is illegal to smoke in any motor vehicle when passengers under 16 are present."
+  },
+  {
+    "id": "q068",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "What must you avoid while the vehicle is moving?",
+    "options": [
+      "Collecting fares or making change",
+      "Checking mirrors",
+      "Using turn signals",
+      "Listening for sirens"
+    ],
+    "correct_answer": "Collecting fares or making change",
+    "explanation": "The manual states that while moving, you must not collect fares or make change."
+  },
+  {
+    "id": "q069",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "In a sedan-type vehicle, how many passengers may sit on your right side, and under what condition?",
+    "options": [
+      "Up to two, only if seatbelts and room to operate safely are available",
+      "Up to three, regardless of seatbelts",
+      "Only one, and only in the front seat",
+      "None, passengers must sit behind the driver"
+    ],
+    "correct_answer": "Up to two, only if seatbelts and room to operate safely are available",
+    "explanation": "The manual allows up to two right-side passengers only if there is enough room and designated seatbelts."
+  },
+  {
+    "id": "q070",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "What is required if standing passengers are allowed?",
+    "options": [
+      "The standing capacity must be displayed and standing must not block your vision or movement",
+      "Standing is allowed anywhere without limits",
+      "Standing is allowed only at the front door",
+      "Standing is allowed if the vehicle is moving slowly"
+    ],
+    "correct_answer": "The standing capacity must be displayed and standing must not block your vision or movement",
+    "explanation": "The manual states standing passengers are only allowed if the license permits, capacity is displayed, and standing does not block the driver."
+  },
+  {
+    "id": "q071",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "Which parts are included in the foundation brakes?",
+    "options": [
+      "Brake chambers, slack adjusters, brake linings, and drums or rotors",
+      "Compressor, governor, and air dryer",
+      "Reservoirs, foot valve, and gauges",
+      "Parking brake valve and relay valve only"
+    ],
+    "correct_answer": "Brake chambers, slack adjusters, brake linings, and drums or rotors",
+    "explanation": "The manual lists brake chambers, slack adjusters, linings, and drums or rotors as part of the foundation brakes."
+  },
+  {
+    "id": "q072",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "What is the function of the air brake chamber?",
+    "options": [
+      "Convert compressed air into mechanical force at the pushrod",
+      "Store air for the service reservoirs",
+      "Measure reservoir pressure",
+      "Exhaust air during brake release"
+    ],
+    "correct_answer": "Convert compressed air into mechanical force at the pushrod",
+    "explanation": "The manual explains that the air brake chamber converts compressed air into mechanical force through the pushrod and slack adjuster."
+  },
+  {
+    "id": "q073",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "What is the diaphragm in an air brake chamber described as?",
+    "options": [
+      "A reinforced fabric core with a rubber coating",
+      "A solid metal disk",
+      "A plastic membrane",
+      "A spring-loaded plate"
+    ],
+    "correct_answer": "A reinforced fabric core with a rubber coating",
+    "explanation": "The manual describes the diaphragm as a reinforced fabric core with a rubber coating."
+  },
+  {
+    "id": "q074",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "A typical Type 30 chamber at 100 psi develops approximately what pushrod force?",
+    "options": [
+      "3,000 pounds",
+      "1,000 pounds",
+      "5,000 pounds",
+      "500 pounds"
+    ],
+    "correct_answer": "3,000 pounds",
+    "explanation": "The manual states a Type 30 chamber at 100 psi develops about 3,000 pounds of pushrod force."
+  },
+  {
+    "id": "q075",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "How can long stroke brake chambers often be identified?",
+    "options": [
+      "Square-shaped inlet ports or a trapezoid name tag",
+      "Round inlet ports with no tags",
+      "A green paint stripe",
+      "Smaller diameter pushrod"
+    ],
+    "correct_answer": "Square-shaped inlet ports or a trapezoid name tag",
+    "explanation": "The manual notes that long stroke chambers often have square inlet ports or a trapezoid-shaped name tag."
+  },
+  {
+    "id": "q076",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "About what air pressure is typically used for normal stops?",
+    "options": [
+      "Usually less than 20 psi",
+      "Around 80 to 100 psi",
+      "More than 120 psi",
+      "Exactly 60 psi"
+    ],
+    "correct_answer": "Usually less than 20 psi",
+    "explanation": "The manual states that normal stops usually use air application pressure under 20 psi."
+  },
+  {
+    "id": "q077",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "What governs the amount of pushrod force produced by an air chamber?",
+    "options": [
+      "Air pressure and diaphragm surface area",
+      "Reservoir size only",
+      "Foot valve spring tension only",
+      "Brake drum diameter only"
+    ],
+    "correct_answer": "Air pressure and diaphragm surface area",
+    "explanation": "The manual states pushrod force is governed by air pressure and the diaphragm's effective area."
+  },
+  {
+    "id": "q078",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "In an s-cam drum brake, what causes the linings to press against the drum?",
+    "options": [
+      "The slack adjuster rotates the s-cam when the pushrod moves",
+      "The brake drum expands to meet the lining",
+      "The return springs push the shoes outward",
+      "The reservoir pressure directly turns the wheel"
+    ],
+    "correct_answer": "The slack adjuster rotates the s-cam when the pushrod moves",
+    "explanation": "The manual explains that pushrod movement rotates the slack adjuster and s-cam, pressing linings against the drum."
+  },
+  {
+    "id": "q079",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "Besides applying brakes, what is another role of the slack adjuster?",
+    "options": [
+      "Adjust for brake lining and drum wear",
+      "Measure reservoir pressure",
+      "Control the compressor",
+      "Act as a parking brake valve"
+    ],
+    "correct_answer": "Adjust for brake lining and drum wear",
+    "explanation": "The manual states the slack adjuster also adjusts brakes to compensate for lining and drum wear."
+  },
+  {
+    "id": "q080",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "What keeps brake linings away from the drum when air pressure is released?",
+    "options": [
+      "Brake shoe return springs",
+      "The compressor",
+      "The relay valve",
+      "The foot valve"
+    ],
+    "correct_answer": "Brake shoe return springs",
+    "explanation": "The manual notes that brake shoe return springs retract the linings from the drum when air is released."
+  },
+  {
+    "id": "q081",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "What is the first requirement of an air brake system?",
+    "options": [
+      "A way to compress air and store it in reservoirs",
+      "A way to heat brake drums",
+      "A way to cool the engine",
+      "A way to lock the wheels"
+    ],
+    "correct_answer": "A way to compress air and store it in reservoirs",
+    "explanation": "The manual states the first requirement is to compress air and store it in reservoirs."
+  },
+  {
+    "id": "q082",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "How is the air compressor typically driven?",
+    "options": [
+      "By the engine, running whenever the engine runs",
+      "By the wheels during braking only",
+      "By the battery when parked",
+      "By a separate electric motor only"
+    ],
+    "correct_answer": "By the engine, running whenever the engine runs",
+    "explanation": "The manual states the compressor is engine-driven and runs as long as the engine runs."
+  },
+  {
+    "id": "q083",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "What is a dual foot valve?",
+    "options": [
+      "Two control valves operated by a single pedal",
+      "A valve used only for parking brakes",
+      "A valve that drains reservoirs",
+      "A single valve for trailer brakes only"
+    ],
+    "correct_answer": "Two control valves operated by a single pedal",
+    "explanation": "The manual explains the dual foot valve is two control valves operated by one pedal."
+  },
+  {
+    "id": "q084",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "In many dual systems, which brakes does the primary section usually operate?",
+    "options": [
+      "Drive axle brakes",
+      "Steering axle brakes only",
+      "Trailer brakes only",
+      "Parking brakes only"
+    ],
+    "correct_answer": "Drive axle brakes",
+    "explanation": "The manual states the primary section often operates the drive axle brakes."
+  },
+  {
+    "id": "q085",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "How many reservoirs are commonly used in dual air brake systems?",
+    "options": [
+      "Three: a supply reservoir and two service reservoirs",
+      "Two: a supply reservoir and one service reservoir",
+      "One: a single reservoir",
+      "Four: one for each axle"
+    ],
+    "correct_answer": "Three: a supply reservoir and two service reservoirs",
+    "explanation": "The manual notes that most dual systems use three reservoirs: supply, primary, and secondary."
+  },
+  {
+    "id": "q086",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "What is the purpose of a one-way check valve in the air brake system?",
+    "options": [
+      "Allow air flow one direction and prevent backflow loss",
+      "Release air quickly at the brake chambers",
+      "Control parking brake pressure",
+      "Measure air pressure at the foot valve"
+    ],
+    "correct_answer": "Allow air flow one direction and prevent backflow loss",
+    "explanation": "The manual explains that one-way check valves prevent air from flowing back and being lost after a failure."
+  },
+  {
+    "id": "q087",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "Why is the reservoir pressure gauge mounted on the dashboard?",
+    "options": [
+      "So the driver can monitor air pressure while driving and during pre-trip",
+      "So the mechanic can adjust slack adjusters",
+      "So the driver can release spring brakes",
+      "So the driver can measure brake temperature"
+    ],
+    "correct_answer": "So the driver can monitor air pressure while driving and during pre-trip",
+    "explanation": "The manual states the gauge is on the dash so the driver can monitor air pressure while driving and during pre-trip."
+  },
+  {
+    "id": "q088",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "At what pressure must the low-air warning device activate?",
+    "options": [
+      "Below 60 psi (414 kPa)",
+      "Below 90 psi (620 kPa)",
+      "Below 20 psi (138 kPa)",
+      "Below 120 psi (827 kPa)"
+    ],
+    "correct_answer": "Below 60 psi (414 kPa)",
+    "explanation": "The manual states the low-air warning must activate when pressure drops below 60 psi."
+  },
+  {
+    "id": "q089",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "What is a wig-wag?",
+    "options": [
+      "A low-air warning device that drops into view",
+      "A relay valve near the rear axle",
+      "A type of brake chamber",
+      "A parking brake control valve"
+    ],
+    "correct_answer": "A low-air warning device that drops into view",
+    "explanation": "The manual describes a wig-wag as a low-air warning device that drops into the driver's view."
+  },
+  {
+    "id": "q090",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "What should you do when the low-air warning activates?",
+    "options": [
+      "Stop and find the cause before proceeding",
+      "Continue until the next stop",
+      "Increase speed to build air",
+      "Pump the brakes repeatedly"
+    ],
+    "correct_answer": "Stop and find the cause before proceeding",
+    "explanation": "The manual instructs drivers to stop and find the cause when the low-air warning activates."
+  },
+  {
+    "id": "q091",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "What does a quick release valve do?",
+    "options": [
+      "Allows brakes to release quickly by exhausting air near the chambers",
+      "Increases braking force at the pedal",
+      "Stores air for parking brakes",
+      "Measures pushrod travel"
+    ],
+    "correct_answer": "Allows brakes to release quickly by exhausting air near the chambers",
+    "explanation": "The manual explains that quick release valves exhaust air near the chambers to speed brake release."
+  },
+  {
+    "id": "q092",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "What is the purpose of a relay valve?",
+    "options": [
+      "Reduce brake application and release lag by supplying air near the chambers",
+      "Prevent reservoir pressure loss",
+      "Measure air pressure at the foot valve",
+      "Control the parking brake"
+    ],
+    "correct_answer": "Reduce brake application and release lag by supplying air near the chambers",
+    "explanation": "The manual states relay valves reduce lag by supplying reservoir air near the brake chambers."
+  },
+  {
+    "id": "q093",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "What happens if one section of a dual air brake system fails?",
+    "options": [
+      "You can still make a controlled stop, but braking power is reduced",
+      "All braking is lost immediately",
+      "The vehicle brakes lock completely",
+      "Only the parking brakes apply"
+    ],
+    "correct_answer": "You can still make a controlled stop, but braking power is reduced",
+    "explanation": "The manual states that a dual system allows a controlled stop even if one section fails, though braking is reduced."
+  },
+  {
+    "id": "q094",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "Why are parking brakes required to be mechanical?",
+    "options": [
+      "They must hold the vehicle even if air pressure is lost",
+      "They must heat brake drums",
+      "They must provide steering assist",
+      "They must increase service brake pressure"
+    ],
+    "correct_answer": "They must hold the vehicle even if air pressure is lost",
+    "explanation": "The manual states parking brakes must be mechanical so they are unaffected by air pressure loss."
+  },
+  {
+    "id": "q095",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "Where are spring parking brakes typically mounted?",
+    "options": [
+      "On rear axles only",
+      "On steering axles only",
+      "On all axles",
+      "On the trailer only"
+    ],
+    "correct_answer": "On rear axles only",
+    "explanation": "The manual states spring parking brakes are mounted on rear axles, not steering axles."
+  },
+  {
+    "id": "q096",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "How do spring parking brakes operate?",
+    "options": [
+      "They are applied by spring force and released by air pressure",
+      "They are applied by air pressure and released by spring force",
+      "They are applied only by hydraulic pressure",
+      "They are applied by electric motors"
+    ],
+    "correct_answer": "They are applied by spring force and released by air pressure",
+    "explanation": "The manual explains that spring parking brakes are applied by spring force and released by air pressure."
+  },
+  {
+    "id": "q097",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "At what pressure may spring brakes begin to drag and then fully apply?",
+    "options": [
+      "Begin around 60 psi and fully apply around 20 to 45 psi",
+      "Begin around 120 psi and fully apply at 100 psi",
+      "Begin around 90 psi and fully apply at 80 psi",
+      "Begin around 30 psi and fully apply at 10 psi"
+    ],
+    "correct_answer": "Begin around 60 psi and fully apply around 20 to 45 psi",
+    "explanation": "The manual states spring brakes may begin to drag below about 60 psi and fully apply around 20 to 45 psi."
+  },
+  {
+    "id": "q098",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "What does the yellow parking brake control valve typically do when pushed in?",
+    "options": [
+      "Releases spring parking brakes by applying air",
+      "Applies spring parking brakes by exhausting air",
+      "Drains the supply reservoir",
+      "Activates the low-air warning"
+    ],
+    "correct_answer": "Releases spring parking brakes by applying air",
+    "explanation": "The manual states that pushing the parking brake control valve in supplies air to release spring brakes."
+  },
+  {
+    "id": "q099",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "What is brake compounding?",
+    "options": [
+      "Adding spring brake force to a heavy service brake application",
+      "Using only service brakes on a downgrade",
+      "Releasing parking brakes while rolling",
+      "Applying the foot valve quickly"
+    ],
+    "correct_answer": "Adding spring brake force to a heavy service brake application",
+    "explanation": "The manual warns that compounding adds spring brake force to service brake force and can damage components."
+  },
+  {
+    "id": "q100",
+    "chapter": 8,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "When is caging a spring parking brake appropriate?",
+    "options": [
+      "Only by mechanics during repairs or towing",
+      "As part of every pre-trip inspection",
+      "To improve brake performance",
+      "To stop faster on downgrades"
+    ],
+    "correct_answer": "Only by mechanics during repairs or towing",
+    "explanation": "The manual states caging spring brakes should only be done by mechanics and removes parking force."
+  },
+  {
+    "id": "q101",
+    "chapter": 9,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "How often should air brake chamber pushrod travel be checked?",
+    "options": [
+      "At least daily",
+      "Once a month",
+      "Once a year",
+      "Only after a brake failure"
+    ],
+    "correct_answer": "At least daily",
+    "explanation": "The manual advises checking pushrod travel at least daily."
+  },
+  {
+    "id": "q102",
+    "chapter": 9,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "For the applied stroke method, what reservoir pressure is required before measurement?",
+    "options": [
+      "At least 100 psi",
+      "At least 60 psi",
+      "At least 30 psi",
+      "At least 150 psi"
+    ],
+    "correct_answer": "At least 100 psi",
+    "explanation": "The manual specifies reservoir pressure must be at least 100 psi before using the applied stroke method."
+  },
+  {
+    "id": "q103",
+    "chapter": 9,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "In the applied stroke method, a good range for applied stroke is:",
+    "options": [
+      "1 to 1.5 inches",
+      "0.25 to 0.5 inches",
+      "2 to 3 inches",
+      "0.75 to 1 inch"
+    ],
+    "correct_answer": "1 to 1.5 inches",
+    "explanation": "The manual states 1 to 1.5 inches is a good applied stroke range, and more than 1.75 inches needs adjustment."
+  },
+  {
+    "id": "q104",
+    "chapter": 9,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "For the pry method of free stroke measurement, what range is considered good?",
+    "options": [
+      "0.5 to 0.75 inches",
+      "1 to 1.5 inches",
+      "2 to 2.5 inches",
+      "0.1 to 0.2 inches"
+    ],
+    "correct_answer": "0.5 to 0.75 inches",
+    "explanation": "The manual states a free stroke of 0.5 to 0.75 inches is a good range."
+  },
+  {
+    "id": "q105",
+    "chapter": 9,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "What does a red marking visible on the pushrod indicate?",
+    "options": [
+      "The brake is dangerously out of adjustment",
+      "The brake is correctly adjusted",
+      "The brake chamber is new",
+      "The brake is recently lubricated"
+    ],
+    "correct_answer": "The brake is dangerously out of adjustment",
+    "explanation": "The manual says a visible red marking indicates the brake is dangerously out of adjustment and needs immediate attention."
+  },
+  {
+    "id": "q106",
+    "chapter": 9,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "Why can incorrectly adjusted brakes be misleading during light braking?",
+    "options": [
+      "They may seem effective even though they are unsafe",
+      "They always lock immediately",
+      "They create extra stopping power",
+      "They eliminate brake lag"
+    ],
+    "correct_answer": "They may seem effective even though they are unsafe",
+    "explanation": "The manual notes that incorrectly adjusted brakes may feel effective during light braking, creating a false sense of security."
+  },
+  {
+    "id": "q107",
+    "chapter": 9,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "Why can hot brake drums cause loss of braking on downgrades?",
+    "options": [
+      "Drums expand and pushrod travel increases until it bottoms out",
+      "Drums shrink and clamp the linings",
+      "Air pressure increases beyond limits",
+      "Slack adjusters tighten automatically"
+    ],
+    "correct_answer": "Drums expand and pushrod travel increases until it bottoms out",
+    "explanation": "The manual explains that hot drums expand, increasing pushrod travel and reducing braking, possibly causing a runaway."
+  },
+  {
+    "id": "q108",
+    "chapter": 10,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "What must every written trip inspection report include regarding identification?",
+    "options": [
+      "Licence plate or unit numbers for the vehicle and/or trailers",
+      "Driver medical number",
+      "Fuel receipts",
+      "Tire brand and model"
+    ],
+    "correct_answer": "Licence plate or unit numbers for the vehicle and/or trailers",
+    "explanation": "The manual states the report must include licence plate or unit numbers for the vehicle and/or trailers."
+  },
+  {
+    "id": "q109",
+    "chapter": 10,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "What must a written trip inspection report state about defects?",
+    "options": [
+      "List all defects or state that no defects were found",
+      "Only list defects that were repaired",
+      "List only major defects",
+      "State the driver's opinion only"
+    ],
+    "correct_answer": "List all defects or state that no defects were found",
+    "explanation": "The manual requires the report to list all defects or state that none were found."
+  },
+  {
+    "id": "q110",
+    "chapter": 10,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "When must a trip inspection report be completed, and what else must it include?",
+    "options": [
+      "Before the first trip of the day, with date and signature",
+      "After the last trip of the day, with odometer only",
+      "Only when defects are found, with a mechanic signature",
+      "Only during road tests, with witness signature"
+    ],
+    "correct_answer": "Before the first trip of the day, with date and signature",
+    "explanation": "The manual states reports must be completed before the first trip of the day and include the date and signature."
+  },
+  {
+    "id": "q111",
+    "chapter": 10,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "If a trip lasts more than one day, when must a new trip inspection report be completed?",
+    "options": [
+      "No later than the first rest stop of each subsequent day",
+      "Only at the end of the trip",
+      "Every 12 hours regardless of rest stops",
+      "Only if defects were found on the first day"
+    ],
+    "correct_answer": "No later than the first rest stop of each subsequent day",
+    "explanation": "The manual states a new report must be completed no later than the first rest stop of every subsequent day."
+  },
+  {
+    "id": "q112",
+    "chapter": 10,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "What is required if you couple to another trailer during the day?",
+    "options": [
+      "Obtain and carry that trailer's report or complete one",
+      "Skip the inspection if it was inspected yesterday",
+      "Only check the lights",
+      "Only note the trailer number"
+    ],
+    "correct_answer": "Obtain and carry that trailer's report or complete one",
+    "explanation": "The manual requires you to obtain and carry the trip inspection report for the trailer or complete one if it has not been done."
+  },
+  {
+    "id": "q113",
+    "chapter": 10,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "How must defects be recorded on the trip inspection report?",
+    "options": [
+      "Note whether each defect was corrected or no correction is necessary",
+      "List only the defect category",
+      "Record defects only if repairs were completed",
+      "Record defects only if they are major"
+    ],
+    "correct_answer": "Note whether each defect was corrected or no correction is necessary",
+    "explanation": "The manual requires the report to state whether each defect was corrected or no correction is necessary."
+  },
+  {
+    "id": "q114",
+    "chapter": 10,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "If drivers disagree about which defects to report, what must happen?",
+    "options": [
+      "All drivers must sign and indicate the disagreement",
+      "Only the senior driver signs",
+      "The report is voided",
+      "The vehicle cannot be operated"
+    ],
+    "correct_answer": "All drivers must sign and indicate the disagreement",
+    "explanation": "The manual states all drivers must sign and indicate the nature of any disagreement."
+  },
+  {
+    "id": "q115",
+    "chapter": 10,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "By when must trip inspection reports be given to the carrier?",
+    "options": [
+      "Within 20 days",
+      "Within 24 hours",
+      "Within 7 days",
+      "Within 30 days"
+    ],
+    "correct_answer": "Within 20 days",
+    "explanation": "The manual states that all trip inspection reports must be given to the carrier within 20 days."
+  },
+  {
+    "id": "q116",
+    "chapter": 10,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "What is a possible consequence of failing to carry a trip inspection report?",
+    "options": [
+      "You may be fined",
+      "Your licence is automatically suspended",
+      "Your insurance is canceled immediately",
+      "Nothing, it is optional"
+    ],
+    "correct_answer": "You may be fined",
+    "explanation": "The manual notes you may be fined if you fail to carry a trip inspection report."
+  },
+  {
+    "id": "q117",
+    "chapter": 10,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "Before beginning a pre-trip inspection, what should you do?",
+    "options": [
+      "Park safely, set parking brakes, shut off the engine, and block wheels",
+      "Leave the engine running and start the circle check",
+      "Park on a slope and chock one wheel",
+      "Only set the parking brakes"
+    ],
+    "correct_answer": "Park safely, set parking brakes, shut off the engine, and block wheels",
+    "explanation": "The manual says to choose a safe location, set parking brakes, shut off the engine, and block wheels."
+  },
+  {
+    "id": "q118",
+    "chapter": 10,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "Which direction does the manual recommend for the circle check?",
+    "options": [
+      "Counter-clockwise so you face oncoming traffic",
+      "Clockwise so you face the curb",
+      "Any direction is fine",
+      "Start at the rear and zig-zag"
+    ],
+    "correct_answer": "Counter-clockwise so you face oncoming traffic",
+    "explanation": "The manual recommends walking counter-clockwise during the circle check to face oncoming traffic."
+  },
+  {
+    "id": "q119",
+    "chapter": 10,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "Which tool is specifically listed for checking pushrod free stroke?",
+    "options": [
+      "A pry tool and a ruler or measuring device",
+      "A torque wrench only",
+      "A tire iron only",
+      "A stethoscope"
+    ],
+    "correct_answer": "A pry tool and a ruler or measuring device",
+    "explanation": "The manual lists a tool to pry on the pushrod and a ruler or measuring device to check free stroke."
+  },
+  {
+    "id": "q120",
+    "chapter": 10,
+    "license_classes": [
+      "1",
+      "Air Brakes"
+    ],
+    "question": "What sequence does the manual suggest for a pre-trip inspection?",
+    "options": [
+      "Under hood, circle check, cab checks, then pull ahead to check brake and steering response",
+      "Cab checks first, then road test, then circle check",
+      "Road test first, then under hood",
+      "Only under hood and cab checks"
+    ],
+    "correct_answer": "Under hood, circle check, cab checks, then pull ahead to check brake and steering response",
+    "explanation": "The manual describes a good order starting under the hood, then a circle check, cab checks, and finally pulling ahead to check response."
+  },
+  {
+    "id": "q121",
+    "chapter": 3,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What does a red octagon-shaped sign mean?",
+    "options": [
+      "Yield to other traffic",
+      "Stop completely",
+      "No entry",
+      "One-way street"
+    ],
+    "correct_answer": "Stop completely",
+    "explanation": "A red octagon-shaped sign is a stop sign. You must come to a complete stop, check that the intersection is clear, and proceed only when safe."
+  },
+  {
+    "id": "q122",
+    "chapter": 3,
+    "license_classes": [
+      "5"
+    ],
+    "question": "In a school zone with a tab showing '30 km/h 8am-5pm School Days', when is the speed limit in effect?",
+    "options": [
+      "Only when children are visible",
+      "From 8am to 5pm every day",
+      "From 8am to 5pm on school days only",
+      "From dawn to dusk every day"
+    ],
+    "correct_answer": "From 8am to 5pm on school days only",
+    "explanation": "When a school zone sign includes a tab with specific times and 'School Days', the speed limit applies during those hours on school days only."
+  },
+  {
+    "id": "q123",
+    "chapter": 3,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What does a playground zone sign indicate?",
+    "options": [
+      "30 km/h from 8am-5pm on school days",
+      "30 km/h from dawn to dusk every day",
+      "50 km/h when children are present",
+      "Playground nearby, be prepared to slow"
+    ],
+    "correct_answer": "30 km/h from dawn to dusk every day",
+    "explanation": "A playground zone sign with the speed limit tab means 30 km/h is in effect from dawn to dusk every day, not just school days."
+  },
+  {
+    "id": "q124",
+    "chapter": 3,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What do fluorescent yellow-green signs indicate?",
+    "options": [
+      "Construction zones",
+      "School zones and pedestrian areas",
+      "Highway exits",
+      "Parking areas"
+    ],
+    "correct_answer": "School zones and pedestrian areas",
+    "explanation": "Fluorescent yellow-green is used for school zone signs and pedestrian crosswalk signs to make them highly visible."
+  },
+  {
+    "id": "q125",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "At a four-way stop, if two vehicles arrive at the same time, who has the right-of-way?",
+    "options": [
+      "The vehicle on the left",
+      "The vehicle on the right",
+      "The larger vehicle",
+      "The vehicle going straight"
+    ],
+    "correct_answer": "The vehicle on the right",
+    "explanation": "At a four-way stop when two vehicles arrive simultaneously, the vehicle on the right has the right-of-way."
+  },
+  {
+    "id": "q126",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What should you do at a steady red traffic light?",
+    "options": [
+      "Slow down and proceed with caution",
+      "Stop before the crosswalk, then turn right without stopping",
+      "Come to a complete stop and wait for green",
+      "Proceed if the intersection is clear"
+    ],
+    "correct_answer": "Come to a complete stop and wait for green",
+    "explanation": "A steady red light means you must come to a complete stop and wait for the light to turn green before proceeding straight. After stopping, you may turn right if clear and no sign prohibits it."
+  },
+  {
+    "id": "q127",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What is a 'stale green light'?",
+    "options": [
+      "A light that has just turned green",
+      "A light that has been green for a long time and may turn yellow soon",
+      "A malfunctioning traffic light",
+      "A green arrow for protected turns"
+    ],
+    "correct_answer": "A light that has been green for a long time and may turn yellow soon",
+    "explanation": "A stale green light is one that has been green for a long time and is likely to turn yellow soon. If you didn't see it turn green, it may be stale and you should be prepared to stop."
+  },
+  {
+    "id": "q128",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What does a steady yellow traffic light mean?",
+    "options": [
+      "Speed up to get through the intersection",
+      "Stop if you can do so safely",
+      "Proceed with caution",
+      "The same as a green light"
+    ],
+    "correct_answer": "Stop if you can do so safely",
+    "explanation": "A yellow light means the signal is about to turn red. You must stop before entering the intersection unless you cannot safely stop in time."
+  },
+  {
+    "id": "q129",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "At a two-way stop, if both drivers arrive at the same time and one wants to turn left, who must yield?",
+    "options": [
+      "The driver turning left must yield",
+      "The driver going straight must yield",
+      "Both drivers must yield",
+      "Neither driver must yield"
+    ],
+    "correct_answer": "The driver turning left must yield",
+    "explanation": "At a two-way stop, if one driver wants to turn left and both arrived at the same time, the left-turning driver must yield to the other vehicle, unless the left-turning vehicle is already in the intersection."
+  },
+  {
+    "id": "q130",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What should you do when approaching a traffic circle?",
+    "options": [
+      "Speed up to merge with traffic",
+      "Always stop before entering",
+      "Slow down and yield to traffic already in the circle",
+      "Enter immediately if no signs are present"
+    ],
+    "correct_answer": "Slow down and yield to traffic already in the circle",
+    "explanation": "When approaching a traffic circle, slow down and yield to any traffic already in the circle. If another vehicle arrives at the same time, yield to the vehicle on your right."
+  },
+  {
+    "id": "q131",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "In a roundabout with multiple lanes, when should you signal right?",
+    "options": [
+      "When entering the roundabout",
+      "Before exiting the roundabout",
+      "When changing lanes in the roundabout",
+      "Never signal in a roundabout"
+    ],
+    "correct_answer": "Before exiting the roundabout",
+    "explanation": "You should signal right before you exit a roundabout. Do not change lanes within a roundabout; stay in your chosen lane."
+  },
+  {
+    "id": "q132",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "Where should you stop if there is a stop line at an intersection?",
+    "options": [
+      "At the stop line",
+      "Just before the stop line",
+      "Just after the stop line",
+      "At the center of the intersection"
+    ],
+    "correct_answer": "Just before the stop line",
+    "explanation": "If there is a stop line, you must stop just before the line. If there is a crosswalk but no stop line, stop just before the crosswalk."
+  },
+  {
+    "id": "q133",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What is the maximum speed limit in a lane or alleyway?",
+    "options": [
+      "30 km/h",
+      "20 km/h",
+      "40 km/h",
+      "50 km/h"
+    ],
+    "correct_answer": "20 km/h",
+    "explanation": "The maximum speed limit in a lane or alleyway is 20 km/h, as these are narrow areas with limited visibility and frequent pedestrian activity."
+  },
+  {
+    "id": "q134",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "When merging onto a freeway, where should you match your speed to freeway traffic?",
+    "options": [
+      "On the entrance ramp",
+      "In the acceleration lane",
+      "In the merging area",
+      "After entering the freeway"
+    ],
+    "correct_answer": "In the acceleration lane",
+    "explanation": "The acceleration lane, divided by a solid white line, is where you match your speed to freeway traffic. The merging area (broken white line) is where you find a safe gap to merge."
+  },
+  {
+    "id": "q135",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "It is illegal to park within what distance of a fire hydrant?",
+    "options": [
+      "3 metres",
+      "5 metres",
+      "6 metres",
+      "10 metres"
+    ],
+    "correct_answer": "5 metres",
+    "explanation": "You must not park within five metres of a fire hydrant, measured from the point at the curb beside the hydrant."
+  },
+  {
+    "id": "q136",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "It is illegal to park within what distance of a crosswalk or intersection?",
+    "options": [
+      "3 metres",
+      "5 metres",
+      "6 metres",
+      "10 metres"
+    ],
+    "correct_answer": "6 metres",
+    "explanation": "You must not park within six metres of a crosswalk or intersection to maintain visibility and safety for pedestrians and other drivers."
+  },
+  {
+    "id": "q137",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "When parking uphill with a curb, which way should you turn your wheels?",
+    "options": [
+      "To the right",
+      "To the left",
+      "Keep them straight",
+      "Either direction is acceptable"
+    ],
+    "correct_answer": "To the left",
+    "explanation": "When parking uphill with a curb, turn your wheels to the left so that if the vehicle rolls backward, the curb will stop it from rolling into traffic."
+  },
+  {
+    "id": "q138",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "When parking downhill (with or without a curb), which way should you turn your wheels?",
+    "options": [
+      "To the left",
+      "To the right",
+      "Keep them straight",
+      "Depends on the grade"
+    ],
+    "correct_answer": "To the right",
+    "explanation": "When parking downhill with or without a curb, turn wheels to the right. Also turn wheels right when parking uphill without a curb."
+  },
+  {
+    "id": "q139",
+    "chapter": 5,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What does the 'see' part of see-think-do mean?",
+    "options": [
+      "Check your mirrors constantly",
+      "Scan for hazards and pay attention to road users",
+      "Watch the vehicle directly in front of you",
+      "Look at road signs"
+    ],
+    "correct_answer": "Scan for hazards and pay attention to road users",
+    "explanation": "The 'see' step means scanning for hazards, paying attention to other road users, and identifying areas where hazards could occur."
+  },
+  {
+    "id": "q140",
+    "chapter": 5,
+    "license_classes": [
+      "5"
+    ],
+    "question": "How far ahead should you scan in city driving?",
+    "options": [
+      "One block ahead",
+      "12 seconds ahead (one to two blocks)",
+      "The next intersection only",
+      "50 metres ahead"
+    ],
+    "correct_answer": "12 seconds ahead (one to two blocks)",
+    "explanation": "You should scan at least 12 seconds ahead, which equals one to two blocks in city driving and half a kilometre on the highway. This gives you time to prepare for hazards."
+  },
+  {
+    "id": "q141",
+    "chapter": 5,
+    "license_classes": [
+      "5"
+    ],
+    "question": "How often should you complete the observation cycle (look ahead, scan sides, check mirrors)?",
+    "options": [
+      "Every 2-3 seconds",
+      "Every 5-8 seconds",
+      "Every 10-15 seconds",
+      "Only when changing lanes"
+    ],
+    "correct_answer": "Every 5-8 seconds",
+    "explanation": "You should complete the entire observation cycle (look ahead, scan sides, check mirrors) every five to eight seconds to maintain awareness of your surroundings."
+  },
+  {
+    "id": "q142",
+    "chapter": 5,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What are blind spots?",
+    "options": [
+      "Areas where your vision is blurred",
+      "Dark areas on the road at night",
+      "Areas you cannot see even with properly adjusted mirrors",
+      "Spots on your windshield"
+    ],
+    "correct_answer": "Areas you cannot see even with properly adjusted mirrors",
+    "explanation": "Blind spots are large areas, especially to the sides, that you cannot see even when mirrors are properly adjusted. You must turn your head to check blind spots before changing lanes."
+  },
+  {
+    "id": "q143",
+    "chapter": 5,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What is the two-second rule?",
+    "options": [
+      "Wait two seconds before responding to a hazard",
+      "Check mirrors every two seconds",
+      "Maintain at least two seconds of following distance",
+      "Signal for two seconds before turning"
+    ],
+    "correct_answer": "Maintain at least two seconds of following distance",
+    "explanation": "The two-second rule means maintaining at least two seconds of space between your vehicle and the vehicle ahead in good conditions. Increase to three or four seconds in poor conditions or at higher speeds."
+  },
+  {
+    "id": "q144",
+    "chapter": 5,
+    "license_classes": [
+      "5"
+    ],
+    "question": "When should you increase your following distance to three seconds or more?",
+    "options": [
+      "Only in bad weather",
+      "On high-speed roads, in bad weather, behind large vehicles, or on slippery roads",
+      "Only when following motorcycles",
+      "Never, two seconds is always sufficient"
+    ],
+    "correct_answer": "On high-speed roads, in bad weather, behind large vehicles, or on slippery roads",
+    "explanation": "Increase following distance to three seconds on high-speed roads and behind large vehicles or motorcycles. Use four seconds in bad weather or on slippery/uneven roads."
+  },
+  {
+    "id": "q145",
+    "chapter": 5,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What should you do if someone is tailgating you?",
+    "options": [
+      "Speed up to increase the gap",
+      "Brake suddenly to warn them",
+      "Slow down slightly to increase your space in front, or change lanes/pull over",
+      "Ignore them and continue driving"
+    ],
+    "correct_answer": "Slow down slightly to increase your space in front, or change lanes/pull over",
+    "explanation": "If someone is tailgating you, slow down slightly to increase your space in front so you can stop more gradually, change lanes if possible, or pull over to let them pass."
+  },
+  {
+    "id": "q146",
+    "chapter": 5,
+    "license_classes": [
+      "5"
+    ],
+    "question": "How much space must you leave when passing a cyclist or pedestrian on roads with speed limits of 50 km/h or less?",
+    "options": [
+      "0.5 metres",
+      "1.0 metre",
+      "1.5 metres",
+      "2.0 metres"
+    ],
+    "correct_answer": "1.0 metre",
+    "explanation": "On roads with speed limits of 50 km/h or less, you must leave at least 1.0 metre when passing vulnerable road users like cyclists or pedestrians."
+  },
+  {
+    "id": "q147",
+    "chapter": 5,
+    "license_classes": [
+      "5"
+    ],
+    "question": "How much space must you leave when passing a cyclist on roads with speed limits above 50 km/h?",
+    "options": [
+      "0.5 metres",
+      "1.0 metre",
+      "1.5 metres",
+      "2.0 metres"
+    ],
+    "correct_answer": "1.5 metres",
+    "explanation": "On roads with speed limits above 50 km/h, you must leave at least 1.5 metres when passing vulnerable road users."
+  },
+  {
+    "id": "q148",
+    "chapter": 5,
+    "license_classes": [
+      "5"
+    ],
+    "question": "When stopping behind another vehicle at an intersection, how much space should you leave?",
+    "options": [
+      "As close as possible",
+      "About one car length",
+      "Two car lengths",
+      "Three car lengths"
+    ],
+    "correct_answer": "About one car length",
+    "explanation": "Leave about one car length between your vehicle and the vehicle ahead when stopped at an intersection. This gives you room to maneuver if needed. Allow more space behind large vehicles."
+  },
+  {
+    "id": "q149",
+    "chapter": 5,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What is total stopping distance?",
+    "options": [
+      "Only the distance traveled while braking",
+      "The distance from when you see a hazard until you stop, including reaction time",
+      "The length of your vehicle plus braking distance",
+      "100 metres at highway speeds"
+    ],
+    "correct_answer": "The distance from when you see a hazard until you stop, including reaction time",
+    "explanation": "Total stopping distance includes the distance traveled during reaction time (see-think-do) plus the distance traveled while braking. It takes about 1.5 seconds just to react."
+  },
+  {
+    "id": "q150",
+    "chapter": 5,
+    "license_classes": [
+      "5"
+    ],
+    "question": "Where should you position your hands on the steering wheel?",
+    "options": [
+      "12 o'clock and 6 o'clock",
+      "10 o'clock and 2 o'clock, or 9 o'clock and 3 o'clock",
+      "11 o'clock and 1 o'clock",
+      "Anywhere that's comfortable"
+    ],
+    "correct_answer": "10 o'clock and 2 o'clock, or 9 o'clock and 3 o'clock",
+    "explanation": "Place your hands at 9 and 3 o'clock or 10 and 2 o'clock positions for best control. With airbags, 9 and 3 or even 8 and 4 may be safer to prevent hand injuries."
+  },
+  {
+    "id": "q151",
+    "chapter": 5,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What is the best way to handle a curve?",
+    "options": [
+      "Brake while turning",
+      "Accelerate through the curve",
+      "Slow down before the curve, then accelerate gently through it",
+      "Maintain constant speed throughout"
+    ],
+    "correct_answer": "Slow down before the curve, then accelerate gently through it",
+    "explanation": "Slow down before entering a curve to a speed that allows you to go through without braking. Begin accelerating gently when you reach the middle of the curve."
+  },
+  {
+    "id": "q152",
+    "chapter": 5,
+    "license_classes": [
+      "5"
+    ],
+    "question": "Approximately how long does it take a stopped vehicle to turn left and reach 50 km/h?",
+    "options": [
+      "2 seconds",
+      "5 seconds",
+      "7 seconds",
+      "10 seconds"
+    ],
+    "correct_answer": "7 seconds",
+    "explanation": "In ideal conditions, it takes about 7 seconds to turn left from a stop and accelerate to 50 km/h. Add extra time for safety when judging gaps."
+  },
+  {
+    "id": "q153",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What does the brake warning light indicate if it stays on while driving?",
+    "options": [
+      "The parking brake is on",
+      "The brake system may not be working properly",
+      "You need new brake pads",
+      "The brake fluid is low"
+    ],
+    "correct_answer": "The brake system may not be working properly",
+    "explanation": "If the brake warning light stays on while driving (after releasing the parking brake), it means the brake system may not be working properly and should be checked immediately."
+  },
+  {
+    "id": "q154",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What should you do before starting your vehicle?",
+    "options": [
+      "Start driving immediately",
+      "Adjust seat, mirrors, head restraints, and fasten seatbelt",
+      "Only check the fuel gauge",
+      "Just fasten your seatbelt"
+    ],
+    "correct_answer": "Adjust seat, mirrors, head restraints, and fasten seatbelt",
+    "explanation": "Before starting, adjust your seat, head restraints, and mirrors to reduce blind spots, and fasten your seatbelt. This is part of your pre-trip check."
+  },
+  {
+    "id": "q155",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "How often should you check your tire pressure?",
+    "options": [
+      "Once a year",
+      "Every few weeks as part of periodic check",
+      "Only when they look flat",
+      "Only before long trips"
+    ],
+    "correct_answer": "Every few weeks as part of periodic check",
+    "explanation": "Tire pressure should be checked regularly as part of your periodic vehicle check (every few weeks depending on usage) to ensure proper inflation and safety."
+  },
+  {
+    "id": "q156",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "When should you check tire pressure?",
+    "options": [
+      "When tires are hot after driving",
+      "When tires are cold",
+      "At any temperature",
+      "Only in summer"
+    ],
+    "correct_answer": "When tires are cold",
+    "explanation": "Check tire pressure when tires are cold for accurate readings. Refer to the owner's manual or door sticker for proper inflation levels, not the numbers on the tire sidewall."
+  },
+  {
+    "id": "q157",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What is the purpose of head restraints?",
+    "options": [
+      "For passenger comfort",
+      "To reduce whiplash injury in a collision",
+      "To improve visibility",
+      "As headrests for sleeping"
+    ],
+    "correct_answer": "To reduce whiplash injury in a collision",
+    "explanation": "Head restraints are designed to reduce the risk of whiplash injuries in a collision by preventing your head from snapping backward."
+  },
+  {
+    "id": "q158",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "When using a space-saver spare tire, what is the maximum speed you should drive?",
+    "options": [
+      "50 km/h",
+      "60 km/h",
+      "80 km/h",
+      "100 km/h"
+    ],
+    "correct_answer": "80 km/h",
+    "explanation": "When using a space-saver spare tire, never drive faster than 80 km/h. These tires are temporary solutions and not designed for normal driving speeds."
+  },
+  {
+    "id": "q159",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What should you check in your pre-trip inspection?",
+    "options": [
+      "Only fuel level",
+      "Lights, tires, mirrors, glass, brakes, and check for obstacles",
+      "Only the dashboard warning lights",
+      "Just the exterior of the vehicle"
+    ],
+    "correct_answer": "Lights, tires, mirrors, glass, brakes, and check for obstacles",
+    "explanation": "A proper pre-trip check includes: lights and signals working, tires in good condition, mirrors adjusted, glass clean, area around vehicle clear, brakes working, fuel sufficient, and seat/seatbelt adjusted."
+  },
+  {
+    "id": "q160",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "When should you use your parking brake?",
+    "options": [
+      "Only on steep hills",
+      "Only in emergencies",
+      "Whenever you park",
+      "Only with manual transmissions"
+    ],
+    "correct_answer": "Whenever you park",
+    "explanation": "You should always fully apply the parking brake whenever you park your vehicle, regardless of the grade or transmission type. Release it fully before moving."
+  },
+  {
+    "id": "q161",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "When can you turn right on a red light?",
+    "options": [
+      "Never",
+      "After coming to a complete stop and ensuring the intersection is clear, unless prohibited by a sign",
+      "Only if no other vehicles are present",
+      "Without stopping if the way is clear"
+    ],
+    "correct_answer": "After coming to a complete stop and ensuring the intersection is clear, unless prohibited by a sign",
+    "explanation": "After stopping completely at a red light and ensuring the intersection is clear of all vehicles, cyclists, and pedestrians, you may turn right unless a sign prohibits it."
+  },
+  {
+    "id": "q162",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What does a flashing green light mean?",
+    "options": [
+      "Proceed without caution",
+      "The same as a yellow light",
+      "Pedestrian-activated signal; watch for pedestrians and side-street traffic",
+      "You must turn left"
+    ],
+    "correct_answer": "Pedestrian-activated signal; watch for pedestrians and side-street traffic",
+    "explanation": "A flashing green light indicates a pedestrian-activated signal. Watch for pedestrians who may activate it to turn yellow/red, and for side-street traffic that may enter when clear."
+  },
+  {
+    "id": "q163",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What does a flashing red light mean?",
+    "options": [
+      "Stop only if other vehicles are present",
+      "Slow down and proceed with caution",
+      "Come to a complete stop, then proceed when clear and safe",
+      "The traffic light is malfunctioning"
+    ],
+    "correct_answer": "Come to a complete stop, then proceed when clear and safe",
+    "explanation": "A flashing red light means you must come to a complete stop. After stopping, you may proceed when the intersection is clear and safe."
+  },
+  {
+    "id": "q164",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "If all traffic lights at an intersection stop working, how should you treat it?",
+    "options": [
+      "The main road has right-of-way",
+      "First to arrive goes first",
+      "Treat it as a four-way stop",
+      "Proceed without stopping"
+    ],
+    "correct_answer": "Treat it as a four-way stop",
+    "explanation": "When traffic lights malfunction or go out completely, treat the intersection as a four-way stop. All vehicles must stop and follow four-way stop rules."
+  },
+  {
+    "id": "q165",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What should you do when you see a fresh green light?",
+    "options": [
+      "Accelerate quickly through the intersection",
+      "Proceed at your current speed",
+      "Scan the intersection to make sure it's clear before proceeding",
+      "Slow down in case it turns yellow"
+    ],
+    "correct_answer": "Scan the intersection to make sure it's clear before proceeding",
+    "explanation": "A fresh green light is one that just turned green. Don't move forward until you've scanned the intersection to ensure it's clear of vehicles, pedestrians, and cyclists."
+  },
+  {
+    "id": "q166",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "When making a left turn at a traffic light and the light turns yellow while you're waiting in the intersection, what should you do?",
+    "options": [
+      "Back up out of the intersection",
+      "Stop and wait in the intersection",
+      "Complete your turn, watching for oncoming traffic",
+      "Turn right instead"
+    ],
+    "correct_answer": "Complete your turn, watching for oncoming traffic",
+    "explanation": "If you're in an intersection waiting to turn left and the light turns yellow, you are legally allowed to complete your turn. Watch carefully for oncoming drivers trying to beat the red light."
+  },
+  {
+    "id": "q167",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What is a protected left turn?",
+    "options": [
+      "Turning left when there's no oncoming traffic",
+      "A left turn controlled by a green arrow while through traffic faces a red light",
+      "Turning left at a stop sign",
+      "Any left turn at an intersection"
+    ],
+    "correct_answer": "A left turn controlled by a green arrow while through traffic faces a red light",
+    "explanation": "A protected left turn is indicated by a green arrow at intersections with designated turn signals. Through traffic faces a red light, so left-turning vehicles are protected."
+  },
+  {
+    "id": "q168",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "At an uncontrolled intersection (no signs or signals), who has the right-of-way?",
+    "options": [
+      "The larger vehicle",
+      "The vehicle on the right",
+      "The vehicle going straight",
+      "The vehicle that arrived first"
+    ],
+    "correct_answer": "The vehicle on the right",
+    "explanation": "At uncontrolled intersections where no signs or signals are present, you must yield to the vehicle on the right if you both arrive at the same time."
+  },
+  {
+    "id": "q169",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What does a yield sign mean?",
+    "options": [
+      "Stop completely before proceeding",
+      "Slow down or stop to allow traffic on the through road to pass",
+      "Proceed without slowing",
+      "Merge without yielding"
+    ],
+    "correct_answer": "Slow down or stop to allow traffic on the through road to pass",
+    "explanation": "A yield sign means you must let traffic on the through road have the right-of-way. Slow down and stop if necessary to wait for a safe gap before proceeding."
+  },
+  {
+    "id": "q170",
+    "chapter": 3,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What does a white diamond painted on the road surface indicate?",
+    "options": [
+      "Carpool lane",
+      "Reserved lane (HOV, bus, etc.)",
+      "Pedestrian crossing ahead",
+      "Emergency vehicle lane"
+    ],
+    "correct_answer": "Reserved lane (HOV, bus, etc.)",
+    "explanation": "A white diamond on the road surface marks reserved lanes for specific vehicles such as buses, HOVs (high-occupancy vehicles), or other designated users."
+  },
+  {
+    "id": "q171",
+    "chapter": 3,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What do yellow lines on the road indicate?",
+    "options": [
+      "Separate lanes of traffic moving in the same direction",
+      "Separate lanes of traffic moving in opposite directions",
+      "Reserved lanes only",
+      "Parking areas"
+    ],
+    "correct_answer": "Separate lanes of traffic moving in opposite directions",
+    "explanation": "Yellow lines separate traffic moving in opposite directions. White lines separate traffic moving in the same direction."
+  },
+  {
+    "id": "q172",
+    "chapter": 3,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What does a solid white line on the road mean?",
+    "options": [
+      "You may cross it freely",
+      "Discouraged from crossing, but you may if necessary",
+      "Passing is recommended",
+      "Reserved lane marking"
+    ],
+    "correct_answer": "Discouraged from crossing, but you may if necessary",
+    "explanation": "A solid white line discourages changing lanes, but you may cross it if necessary and safe. A double solid white line means lane changes are prohibited."
+  },
+  {
+    "id": "q173",
+    "chapter": 3,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What does a broken white line on the road indicate?",
+    "options": [
+      "No passing allowed",
+      "Lane changes are prohibited",
+      "You may change lanes if safe",
+      "Reserved lane"
+    ],
+    "correct_answer": "You may change lanes if safe",
+    "explanation": "A broken white line separates lanes of traffic moving in the same direction and indicates you may change lanes when it is safe to do so."
+  },
+  {
+    "id": "q174",
+    "chapter": 5,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What is peripheral vision?",
+    "options": [
+      "Vision directly in front of you",
+      "Vision to the sides, outside your central vision",
+      "Vision in your mirrors",
+      "Night vision"
+    ],
+    "correct_answer": "Vision to the sides, outside your central vision",
+    "explanation": "Peripheral vision is your ability to see things outside your central vision, to the sides. It helps you detect movement and maintain lane position while looking ahead."
+  },
+  {
+    "id": "q175",
+    "chapter": 5,
+    "license_classes": [
+      "5"
+    ],
+    "question": "When should you check your blind spot?",
+    "options": [
+      "Only when merging onto highways",
+      "Before changing lanes or road position",
+      "Only in heavy traffic",
+      "Never necessary if mirrors are adjusted"
+    ],
+    "correct_answer": "Before changing lanes or road position",
+    "explanation": "You must check your blind spot by turning your head before changing lanes or road position. Mirrors alone cannot show you everything in blind spots."
+  },
+  {
+    "id": "q176",
+    "chapter": 5,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What is the main danger of tailgating?",
+    "options": [
+      "Using more fuel",
+      "Not enough time to stop safely if the vehicle ahead stops suddenly",
+      "Annoying other drivers",
+      "Increased tire wear"
+    ],
+    "correct_answer": "Not enough time to stop safely if the vehicle ahead stops suddenly",
+    "explanation": "Tailgating is dangerous because you don't have enough space to stop safely if the vehicle ahead stops suddenly. If you rear-end another vehicle, you are held responsible."
+  },
+  {
+    "id": "q177",
+    "chapter": 5,
+    "license_classes": [
+      "5"
+    ],
+    "question": "Why should you avoid driving in other drivers' blind spots?",
+    "options": [
+      "It uses more fuel",
+      "It's more difficult to steer",
+      "They may not see you and could change lanes into you",
+      "It's against the law"
+    ],
+    "correct_answer": "They may not see you and could change lanes into you",
+    "explanation": "Avoid driving in other drivers' blind spots because they may not see you when they check their mirrors and could change lanes into your vehicle."
+  },
+  {
+    "id": "q178",
+    "chapter": 5,
+    "license_classes": [
+      "5"
+    ],
+    "question": "In ideal conditions, approximately how long does it take to cross an intersection going straight (per lane)?",
+    "options": [
+      "1 second per lane",
+      "2 seconds per lane",
+      "5 seconds per lane",
+      "7 seconds per lane"
+    ],
+    "correct_answer": "2 seconds per lane",
+    "explanation": "In ideal conditions, it takes approximately 2 seconds per lane to go straight across an intersection. Remember to add extra time for safety when judging gaps."
+  },
+  {
+    "id": "q179",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "Is it legal to back up into an intersection or over a crosswalk?",
+    "options": [
+      "Yes, if no traffic is present",
+      "Yes, at any time",
+      "No, it is illegal",
+      "Only at night"
+    ],
+    "correct_answer": "No, it is illegal",
+    "explanation": "It is illegal to back up into an intersection or over a crosswalk under any circumstances."
+  },
+  {
+    "id": "q180",
+    "chapter": 4,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What should you do when emergency vehicles are approaching with lights and sirens?",
+    "options": [
+      "Speed up to get out of the way",
+      "Stop immediately wherever you are",
+      "Pull over to the right and stop when safe",
+      "Continue driving normally"
+    ],
+    "correct_answer": "Pull over to the right and stop when safe",
+    "explanation": "When emergency vehicles approach with lights and/or sirens, pull over to the right side of the road and stop when it's safe to do so, allowing them to pass."
+  },
+  {
+    "id": "q181",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "When should you position your seat at least 25 cm (10 inches) from the steering wheel?",
+    "options": [
+      "Only when driving on highways",
+      "When your vehicle is equipped with airbags",
+      "Only for tall drivers",
+      "During city driving only"
+    ],
+    "correct_answer": "When your vehicle is equipped with airbags",
+    "explanation": "If your vehicle has airbags, position your seat at least 25 cm (10 inches) from the steering wheel to allow room for the airbag to inflate and protect you from injury."
+  },
+  {
+    "id": "q182",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "Where must you NOT place a rear-facing infant car seat?",
+    "options": [
+      "In the back seat",
+      "In a passenger seat with an active frontal airbag",
+      "Behind the driver's seat",
+      "On the right side of the back seat"
+    ],
+    "correct_answer": "In a passenger seat with an active frontal airbag",
+    "explanation": "Never place a rear-facing infant or child restraint in a passenger seat equipped with an active frontal airbag. Children could be killed or seriously injured if the airbag inflates."
+  },
+  {
+    "id": "q183",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What is the purpose of side-view mirrors with a convex design?",
+    "options": [
+      "They provide a wider field of view",
+      "They magnify objects",
+      "They eliminate blind spots completely",
+      "They are only for reversing"
+    ],
+    "correct_answer": "They provide a wider field of view",
+    "explanation": "Convex mirrors provide a wider field of view but make things look smaller and farther away than they actually are. Check your owner's manual to understand how accurate your mirrors are."
+  },
+  {
+    "id": "q184",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What could happen if you turn the ignition switch to 'lock' position while the vehicle is still moving?",
+    "options": [
+      "The engine will stall safely",
+      "Nothing will happen",
+      "The steering could lock and you could lose control",
+      "The brakes will engage automatically"
+    ],
+    "correct_answer": "The steering could lock and you could lose control",
+    "explanation": "Never turn the ignition switch to 'lock' while moving. This can cause the steering to lock if you try to turn the wheel, resulting in loss of control."
+  },
+  {
+    "id": "q185",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "In a vehicle with a standard transmission, which gear should you use when going down very steep hills?",
+    "options": [
+      "Neutral for coasting",
+      "Fourth or fifth gear",
+      "First or second gear",
+      "Third gear only"
+    ],
+    "correct_answer": "First or second gear",
+    "explanation": "Use first or second gear when going down very steep hills to provide engine braking and maintain control. Never coast in neutral downhill."
+  },
+  {
+    "id": "q186",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "When should you use parking lights?",
+    "options": [
+      "When driving during the day",
+      "When your vehicle is stopped and you want to make it visible",
+      "As a replacement for headlights at night",
+      "During heavy traffic"
+    ],
+    "correct_answer": "When your vehicle is stopped and you want to make it visible",
+    "explanation": "Use parking lights when you are stopped and want to make sure your vehicle is visible. Don't use them when moving\u2014use headlights instead."
+  },
+  {
+    "id": "q187",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "Do daytime running lights (DRL) activate the tail lights?",
+    "options": [
+      "Yes, all lights turn on together",
+      "No, DRLs do not activate tail lights",
+      "Only on newer vehicles",
+      "Yes, but only the brake lights"
+    ],
+    "correct_answer": "No, DRLs do not activate tail lights",
+    "explanation": "Daytime running lights do not activate the tail lights. Do not use them for nighttime driving or low visibility conditions. Use low or high beam lights instead."
+  },
+  {
+    "id": "q188",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "When should you NOT use cruise control?",
+    "options": [
+      "On long highway drives only",
+      "On wet, slippery, or icy surfaces, in urban traffic, when tired, or on winding roads",
+      "During daytime only",
+      "When traveling above 100 km/h"
+    ],
+    "correct_answer": "On wet, slippery, or icy surfaces, in urban traffic, when tired, or on winding roads",
+    "explanation": "Never use cruise control on wet/slippery/icy surfaces, in urban traffic, when tired, or on winding roads. Use it only under ideal highway driving conditions."
+  },
+  {
+    "id": "q189",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "Which foot should you use to operate the brake pedal?",
+    "options": [
+      "Left foot",
+      "Right foot",
+      "Either foot",
+      "Both feet for emergency stops"
+    ],
+    "correct_answer": "Right foot",
+    "explanation": "Always use your right foot to operate both the brake and accelerator pedals. This helps you react quickly and prevents accidentally pressing both pedals."
+  },
+  {
+    "id": "q190",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What does the ABS (Anti-lock Braking System) indicator light staying on after starting mean?",
+    "options": [
+      "The system is working properly",
+      "The brakes need adjustment",
+      "The system may be malfunctioning",
+      "ABS is temporarily disabled"
+    ],
+    "correct_answer": "The system may be malfunctioning",
+    "explanation": "If your ABS indicator light stays on after you start the vehicle, the system may be malfunctioning. Take the vehicle in for repair immediately."
+  },
+  {
+    "id": "q191",
+    "chapter": 6,
+    "license_classes": [
+      "5"
+    ],
+    "question": "When must you yield to a public transit bus?",
+    "options": [
+      "Never, buses must yield to cars",
+      "When it is signalling and displaying a yield-to-bus sign on roads where speed limit is 60 km/h or lower",
+      "Only on highways",
+      "Only during rush hour"
+    ],
+    "correct_answer": "When it is signalling and displaying a yield-to-bus sign on roads where speed limit is 60 km/h or lower",
+    "explanation": "You must allow a public transit bus that is signalling and displaying a yield-to-bus sign to move out from the curb lane or bus stop on roads where the speed limit is 60 km/h or lower."
+  },
+  {
+    "id": "q192",
+    "chapter": 6,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What must you do when you see alternating flashing red lights on a school bus?",
+    "options": [
+      "Slow down to 30 km/h",
+      "Stop in both directions until lights stop flashing",
+      "Pass carefully on the left",
+      "Stop only if children are visible"
+    ],
+    "correct_answer": "Stop in both directions until lights stop flashing",
+    "explanation": "When you see flashing red lights on a school bus, you must stop whether approaching from the front or rear. All lanes must stop until the bus moves on or the driver turns off the lights."
+  },
+  {
+    "id": "q193",
+    "chapter": 6,
+    "license_classes": [
+      "5"
+    ],
+    "question": "How far back must you stay when following a fire truck?",
+    "options": [
+      "50 metres",
+      "100 metres",
+      "150 metres",
+      "200 metres"
+    ],
+    "correct_answer": "150 metres",
+    "explanation": "When following a fire truck, you must stay back at least 150 metres to ensure safe following distance and allow the emergency vehicle to operate safely."
+  },
+  {
+    "id": "q194",
+    "chapter": 6,
+    "license_classes": [
+      "5"
+    ],
+    "question": "When approaching stopped vehicles with flashing lights, how fast can you drive if the speed limit is 80 km/h or more?",
+    "options": [
+      "40 km/h",
+      "50 km/h",
+      "60 km/h",
+      "70 km/h"
+    ],
+    "correct_answer": "70 km/h",
+    "explanation": "When approaching stopped vehicles with flashing lights, drive no faster than 70 km/h if the speed limit is 80 km/h or more, and no faster than 40 km/h if the speed limit is under 80 km/h."
+  },
+  {
+    "id": "q195",
+    "chapter": 6,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What should you do if you are in the lane nearest to a stopped vehicle displaying flashing lights?",
+    "options": [
+      "Maintain your speed and lane",
+      "Change lanes if safe to do so",
+      "Speed up to pass quickly",
+      "Stop behind the vehicle"
+    ],
+    "correct_answer": "Change lanes if safe to do so",
+    "explanation": "If you are in the lane nearest to a stopped vehicle displaying flashing lights, you must change lanes if it is safe to do so, in addition to slowing down."
+  },
+  {
+    "id": "q196",
+    "chapter": 6,
+    "license_classes": [
+      "5"
+    ],
+    "question": "Are construction zone speed limits in effect 24 hours a day?",
+    "options": [
+      "No, only during work hours",
+      "Yes, when posted",
+      "Only on weekdays",
+      "No, only when workers are visible"
+    ],
+    "correct_answer": "Yes, when posted",
+    "explanation": "Construction zone speed limits apply 24 hours a day when posted. You must obey these limits even if no workers are visible. Traffic fines are double in construction zones."
+  },
+  {
+    "id": "q197",
+    "chapter": 6,
+    "license_classes": [
+      "5"
+    ],
+    "question": "Approximately how long does it take most trains to stop?",
+    "options": [
+      "500 metres",
+      "1 kilometre",
+      "2 kilometres",
+      "500 metres"
+    ],
+    "correct_answer": "2 kilometres",
+    "explanation": "Most trains require approximately two kilometres to stop. Never try to beat a train at a crossing\u2014they cannot stop quickly."
+  },
+  {
+    "id": "q198",
+    "chapter": 6,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What should you do if your vehicle becomes stuck on railway tracks?",
+    "options": [
+      "Stay in the vehicle and call for help",
+      "Get out, move 30 metres away from tracks, then call for help",
+      "Try to push the vehicle off the tracks",
+      "Wait for the train to stop"
+    ],
+    "correct_answer": "Get out, move 30 metres away from tracks, then call for help",
+    "explanation": "If stuck on tracks, get all passengers out immediately and move at least 30 metres away from the track to avoid flying debris. Then phone for help."
+  },
+  {
+    "id": "q199",
+    "chapter": 6,
+    "license_classes": [
+      "5"
+    ],
+    "question": "Why might you see turbulence when near large vehicles?",
+    "options": [
+      "Large vehicles create air turbulence that can push or pull your vehicle",
+      "It's only a visual illusion",
+      "Only occurs in bad weather",
+      "Due to road vibrations"
+    ],
+    "correct_answer": "Large vehicles create air turbulence that can push or pull your vehicle",
+    "explanation": "Large vehicles create turbulence that can push you away from or pull you toward the vehicle. Allow lots of space on the side and keep a firm grip on the steering wheel."
+  },
+  {
+    "id": "q200",
+    "chapter": 6,
+    "license_classes": [
+      "5"
+    ],
+    "question": "Can large trucks slow down without brake lights coming on?",
+    "options": [
+      "No, brake lights must always be used",
+      "Yes, they use engine retarders and gears to slow down",
+      "Only on highways",
+      "No, it's illegal"
+    ],
+    "correct_answer": "Yes, they use engine retarders and gears to slow down",
+    "explanation": "Large vehicles are equipped with engine retarders and can use their gears to slow down without brake lights. Look ahead and listen for changes in the truck's engine noise."
+  },
+  {
+    "id": "q201",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What should the lap belt of a seatbelt fit over?",
+    "options": [
+      "Stomach area",
+      "Pelvic bones",
+      "Thighs",
+      "Hip bones"
+    ],
+    "correct_answer": "Pelvic bones",
+    "explanation": "The lap belt should fit low over the pelvic bones. The shoulder belt should fit over the shoulder and snug across the chest for proper protection."
+  },
+  {
+    "id": "q202",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "Why should you never put the shoulder belt under your arm or behind your back?",
+    "options": [
+      "It's uncomfortable",
+      "It could cause serious injury in a crash",
+      "It will trigger a warning light",
+      "It voids the vehicle warranty"
+    ],
+    "correct_answer": "It could cause serious injury in a crash",
+    "explanation": "Never put the shoulder belt under your arm or behind your back as this could cause serious injury in the event of a crash. Seatbelts are designed to work properly only when worn correctly."
+  },
+  {
+    "id": "q203",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "Should you recline your seat deeply while driving?",
+    "options": [
+      "Yes, for comfort on long trips",
+      "No, keep seat in upright position",
+      "Yes, but only on highways",
+      "Only if you're the passenger"
+    ],
+    "correct_answer": "No, keep seat in upright position",
+    "explanation": "Keep the seat in an upright position, not reclined. Seatbelts are designed for upright seating. A deeply reclined seat can cause you to slide out from under the seatbelt in a crash."
+  },
+  {
+    "id": "q204",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "How quickly do airbags inflate and deflate?",
+    "options": [
+      "In about one second",
+      "In less than a blink of an eye",
+      "In about three seconds",
+      "In about half a second"
+    ],
+    "correct_answer": "In less than a blink of an eye",
+    "explanation": "Airbags inflate and begin to deflate in less than a blink of an eye. They work very quickly to reduce the shock of a collision."
+  },
+  {
+    "id": "q205",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "Do airbags replace the need for seatbelts?",
+    "options": [
+      "Yes, airbags provide complete protection",
+      "No, always use seatbelts even with airbags",
+      "Only in newer vehicles",
+      "Yes, but only in frontal collisions"
+    ],
+    "correct_answer": "No, always use seatbelts even with airbags",
+    "explanation": "Airbags do not replace seatbelts. Always use your seatbelt even if your vehicle is equipped with airbags. Both work together to provide maximum protection."
+  },
+  {
+    "id": "q206",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "Why is it important to adjust mirrors to reduce blind spots?",
+    "options": [
+      "To see your vehicle's sides clearly",
+      "Because blind spots are areas you cannot see even with mirrors",
+      "For better fuel economy",
+      "To avoid glare at night"
+    ],
+    "correct_answer": "Because blind spots are areas you cannot see even with mirrors",
+    "explanation": "Adjust side-view mirrors to reduce blind spots as much as possible. Blind spots are areas beside your vehicle that you cannot see in mirrors, usually requiring only a slight part of your vehicle to be visible."
+  },
+  {
+    "id": "q207",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "How often should idling be limited according to environmental guidelines?",
+    "options": [
+      "Idling for more than 10 seconds costs more than restarting the engine",
+      "Idling is fine for up to 5 minutes",
+      "Only idle on cold days",
+      "Idling has no environmental impact"
+    ],
+    "correct_answer": "Idling for more than 10 seconds costs more than restarting the engine",
+    "explanation": "Unnecessary idling wastes gas and causes emissions. Idling for more than 10 seconds costs more than turning the engine off and restarting it."
+  },
+  {
+    "id": "q208",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What gear should you leave an automatic transmission in when parked?",
+    "options": [
+      "Neutral",
+      "Drive",
+      "Park",
+      "Reverse"
+    ],
+    "correct_answer": "Park",
+    "explanation": "Leave an automatic transmission in 'Park' gear when parked. This locks the transmission and prevents the vehicle from rolling."
+  },
+  {
+    "id": "q209",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "When parking a standard transmission facing uphill, which gear should you use?",
+    "options": [
+      "Neutral",
+      "Reverse",
+      "First gear",
+      "Second gear"
+    ],
+    "correct_answer": "First gear",
+    "explanation": "With a standard transmission, place the vehicle in 'first' gear if facing uphill or on a level surface, and 'reverse' if facing downhill."
+  },
+  {
+    "id": "q210",
+    "chapter": 2,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What is the purpose of the horn?",
+    "options": [
+      "To express frustration at other drivers",
+      "To communicate warnings to other road users",
+      "To clear traffic ahead",
+      "To greet other drivers"
+    ],
+    "correct_answer": "To communicate warnings to other road users",
+    "explanation": "Your horn is an important way to communicate warnings to other road users. Use it wisely and appropriately for safety purposes."
+  },
+  {
+    "id": "q211",
+    "chapter": 7,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "What is the purpose of a fifth wheel on a commercial vehicle?",
+    "options": [
+      "It's a spare tire",
+      "It's a coupling device between tractor and trailer",
+      "It's used for steering",
+      "It's a braking mechanism"
+    ],
+    "correct_answer": "It's a coupling device between tractor and trailer",
+    "explanation": "A fifth wheel is a coupling device used to connect a tractor to a semi-trailer. It allows for articulation between the two units."
+  },
+  {
+    "id": "q212",
+    "chapter": 7,
+    "license_classes": [
+      "1"
+    ],
+    "question": "Before coupling a trailer, what should you check about the fifth wheel?",
+    "options": [
+      "Only that it's clean",
+      "Damage, lubrication, and security",
+      "Only the height",
+      "Just the locking mechanism"
+    ],
+    "correct_answer": "Damage, lubrication, and security",
+    "explanation": "Before coupling, inspect the fifth wheel for damage, proper lubrication, and security. If it slides, ensure it's locked in position."
+  },
+  {
+    "id": "q213",
+    "chapter": 7,
+    "license_classes": [
+      "1"
+    ],
+    "question": "What is the kingpin on a trailer?",
+    "options": [
+      "The main steering component",
+      "The connection point that fits into the fifth wheel",
+      "A brake adjustment device",
+      "A suspension component"
+    ],
+    "correct_answer": "The connection point that fits into the fifth wheel",
+    "explanation": "The kingpin is the coupling device on the trailer that fits into and locks with the fifth wheel on the tractor, creating a secure connection."
+  },
+  {
+    "id": "q214",
+    "chapter": 7,
+    "license_classes": [
+      "1"
+    ],
+    "question": "What are landing gear used for on a trailer?",
+    "options": [
+      "To support the trailer when uncoupled from the tractor",
+      "As an emergency brake",
+      "For steering assistance",
+      "To adjust trailer height during loading"
+    ],
+    "correct_answer": "To support the trailer when uncoupled from the tractor",
+    "explanation": "Landing gear are retractable legs that support the front of a trailer when it is not coupled to a tractor. They must be raised before driving."
+  },
+  {
+    "id": "q215",
+    "chapter": 7,
+    "license_classes": [
+      "1"
+    ],
+    "question": "When coupling, what must you ensure about the trailer's spring brakes?",
+    "options": [
+      "They should be released",
+      "They should be applied before coupling",
+      "They are optional to check",
+      "They should be disconnected"
+    ],
+    "correct_answer": "They should be applied before coupling",
+    "explanation": "When coupling multiple trailers with spring brakes, ensure they're applied before coupling to prevent the trailer from rolling."
+  },
+  {
+    "id": "q216",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "What does wheel base affect in commercial vehicle handling?",
+    "options": [
+      "Fuel economy only",
+      "Turning radius and off-tracking",
+      "Maximum speed",
+      "Brake performance only"
+    ],
+    "correct_answer": "Turning radius and off-tracking",
+    "explanation": "The wheel base (distance between axles) affects turning radius and off-tracking. Longer wheel bases require more space to turn and create more off-tracking."
+  },
+  {
+    "id": "q217",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "How does a higher center of gravity affect commercial vehicle stability?",
+    "options": [
+      "It improves stability",
+      "It has no effect",
+      "It makes the vehicle more prone to rolling over on curves",
+      "It only affects fuel consumption"
+    ],
+    "correct_answer": "It makes the vehicle more prone to rolling over on curves",
+    "explanation": "A higher center of gravity, common with tall loads or trucks with large wheels, makes vehicles less stable on curves and more prone to rolling over."
+  },
+  {
+    "id": "q218",
+    "chapter": 6,
+    "license_classes": [
+      "5"
+    ],
+    "question": "What is the penalty for failing to slow down when passing vehicles with flashing lights?",
+    "options": [
+      "A warning letter",
+      "A traffic violation and penalty points",
+      "Community service",
+      "No penalty"
+    ],
+    "correct_answer": "A traffic violation and penalty points",
+    "explanation": "Failure to change lanes and/or slow down when passing a stopped vehicle displaying flashing lights may result in a traffic violation and penalty points."
+  },
+  {
+    "id": "q219",
+    "chapter": 6,
+    "license_classes": [
+      "5"
+    ],
+    "question": "At what speed do passenger trains travel in Canada?",
+    "options": [
+      "Up to 80 km/h",
+      "Up to 100 km/h",
+      "Up to 120 km/h",
+      "Up to 160 km/h"
+    ],
+    "correct_answer": "Up to 160 km/h",
+    "explanation": "Passenger trains can travel at speeds up to 160 km/h in Canada. Trains often appear to be moving slower than they actually are, making it dangerous to try to beat them."
+  },
+  {
+    "id": "q220",
+    "chapter": 6,
+    "license_classes": [
+      "5"
+    ],
+    "question": "When is it illegal to drive over a fire hose?",
+    "options": [
+      "Only during active fires",
+      "Always",
+      "Only at night",
+      "Only in residential areas"
+    ],
+    "correct_answer": "Always",
+    "explanation": "It is illegal to drive over a fire hose at any time. This can damage the hose and interfere with firefighting operations."
+  },
+  {
+    "id": "q221",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "What must you have in a commercial passenger vehicle with a seating capacity of more than 10 occupants?",
+    "options": [
+      "Only a spare tire",
+      "A first-aid kit, spare tire, and at least one fire extinguisher",
+      "Only a fire extinguisher",
+      "Emergency exits only"
+    ],
+    "correct_answer": "A first-aid kit, spare tire, and at least one fire extinguisher",
+    "explanation": "Commercial passenger vehicles with a seating capacity of more than 10 occupants must have one first-aid kit meeting WorkSafe BC guidelines, one spare tire, and at least one fire extinguisher."
+  },
+  {
+    "id": "q222",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "When must inside lights in public passenger vehicles be illuminated?",
+    "options": [
+      "Only during emergencies",
+      "Between sunset and sunrise",
+      "Only when requested by passengers",
+      "During all operating hours"
+    ],
+    "correct_answer": "Between sunset and sunrise",
+    "explanation": "Public passenger vehicles with a seating capacity of more than 12 occupants must have inside lights illuminated between sunset and sunrise so passengers can move safely in the vehicle."
+  },
+  {
+    "id": "q223",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "On what type of road must you yield to a public transit bus that is signalling and displaying a yield-to-bus sign?",
+    "options": [
+      "All roads",
+      "Roads where the speed limit is 60 km/h or lower",
+      "Only highways",
+      "Roads with speed limits over 80 km/h"
+    ],
+    "correct_answer": "Roads where the speed limit is 60 km/h or lower",
+    "explanation": "You must allow a public transit bus that is signalling and displaying a yield-to-bus sign to move out from the curb lane or bus stop on roads where the speed limit is 60 km/h or lower."
+  },
+  {
+    "id": "q224",
+    "chapter": 6,
+    "license_classes": [
+      "2"
+    ],
+    "question": "Are passengers allowed to stand on a school bus?",
+    "options": [
+      "Yes, if there are no seats available",
+      "No, all passengers must be seated",
+      "Yes, but only adults",
+      "Yes, behind a designated line"
+    ],
+    "correct_answer": "No, all passengers must be seated",
+    "explanation": "Passengers are not allowed to stand on a school bus. Ensure that all passengers are sitting before you move the bus."
+  },
+  {
+    "id": "q225",
+    "chapter": 6,
+    "license_classes": [
+      "2"
+    ],
+    "question": "How often must the floor of a school bus be washed with a disinfectant solution?",
+    "options": [
+      "Daily",
+      "At least once a week",
+      "Monthly",
+      "After each route"
+    ],
+    "correct_answer": "At least once a week",
+    "explanation": "The floor of your school bus must be washed with a disinfectant solution at least once a week to maintain cleanliness and sanitation."
+  },
+  {
+    "id": "q226",
+    "chapter": 6,
+    "license_classes": [
+      "2"
+    ],
+    "question": "How much roadway must be visible in either direction before opening school bus doors to let passengers on or off?",
+    "options": [
+      "30 metres",
+      "60 metres",
+      "100 metres",
+      "150 metres"
+    ],
+    "correct_answer": "60 metres",
+    "explanation": "Before opening school bus doors, ensure other drivers will be able to see your bus from at least 60 metres in either direction."
+  },
+  {
+    "id": "q227",
+    "chapter": 6,
+    "license_classes": [
+      "2"
+    ],
+    "question": "From which side should passengers enter or leave a school bus?",
+    "options": [
+      "Left side only",
+      "Right side only",
+      "Either side",
+      "Rear exit only"
+    ],
+    "correct_answer": "Right side only",
+    "explanation": "Passengers must enter or leave a school bus from the right side only for safety reasons."
+  },
+  {
+    "id": "q228",
+    "chapter": 6,
+    "license_classes": [
+      "2"
+    ],
+    "question": "How many metres of road must be available on the left side of a school bus before opening doors?",
+    "options": [
+      "At least one metre",
+      "At least two metres",
+      "At least three metres",
+      "At least five metres"
+    ],
+    "correct_answer": "At least three metres",
+    "explanation": "Before opening school bus doors, ensure there are at least three metres of road available on the left side of your vehicle."
+  },
+  {
+    "id": "q229",
+    "chapter": 6,
+    "license_classes": [
+      "2"
+    ],
+    "question": "What equipment might new school buses have to help the driver see passengers crossing in front?",
+    "options": [
+      "Extra mirrors only",
+      "A crossing control arm that extends in front of the bus",
+      "Front-mounted cameras",
+      "Pedestrian detection sensors"
+    ],
+    "correct_answer": "A crossing control arm that extends in front of the bus",
+    "explanation": "New school buses may be equipped with a crossing control arm that extends in front of the bus to help you see passengers as they cross in front of the school bus."
+  },
+  {
+    "id": "q230",
+    "chapter": 6,
+    "license_classes": [
+      "2"
+    ],
+    "question": "How often must you test the brakes on a school bus?",
+    "options": [
+      "Weekly",
+      "Every day",
+      "Monthly",
+      "Before each route"
+    ],
+    "correct_answer": "Every day",
+    "explanation": "Test the brakes on your school bus every day. Don't operate any school bus unless the brakes are safe."
+  },
+  {
+    "id": "q231",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "Can you refuel a public passenger vehicle while the engine is running?",
+    "options": [
+      "Yes, to save time",
+      "No, never",
+      "Yes, but only diesel vehicles",
+      "Yes, if no passengers are aboard"
+    ],
+    "correct_answer": "No, never",
+    "explanation": "Don't refuel your vehicle while the engine is running, on-board radio is transmitting, or when any open flame is present. School buses must also ensure all passengers are off the bus before refueling."
+  },
+  {
+    "id": "q232",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "Where must cargo or baggage be carried in the passenger compartment of a bus?",
+    "options": [
+      "Anywhere convenient",
+      "In overhead racks, under seats against a barrier, in a separate compartment, or on a passenger's lap",
+      "Only in overhead racks",
+      "Only under the bus"
+    ],
+    "correct_answer": "In overhead racks, under seats against a barrier, in a separate compartment, or on a passenger's lap",
+    "explanation": "Cargo in buses must be carried in overhead racks with proper restraints, under seats against a barrier, in a separate compartment, or on a passenger's lap. It must not block aisles or exits."
+  },
+  {
+    "id": "q233",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "What must you do if your passenger vehicle develops a problem that could endanger passenger safety?",
+    "options": [
+      "Continue to the destination and report it later",
+      "End the trip and fix the problem before continuing",
+      "Drive slowly to minimize risk",
+      "Ask passengers if they want to continue"
+    ],
+    "correct_answer": "End the trip and fix the problem before continuing",
+    "explanation": "You must end the trip if your vehicle develops a problem that could endanger the safety or comfort of any of your passengers. Fix the problem before you continue."
+  },
+  {
+    "id": "q234",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "Can you smoke in a passenger vehicle with passengers present?",
+    "options": [
+      "Yes, if windows are open",
+      "No, never",
+      "Yes, with passenger permission",
+      "Yes, if the vehicle is not moving"
+    ],
+    "correct_answer": "No, never",
+    "explanation": "Don't smoke if passengers are in your vehicle. This applies whether your vehicle's moving or not."
+  },
+  {
+    "id": "q235",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "Who is responsible for ensuring emergency equipment in a passenger vehicle is available and in working order?",
+    "options": [
+      "The driver",
+      "The passengers",
+      "The carrier",
+      "The maintenance shop"
+    ],
+    "correct_answer": "The carrier",
+    "explanation": "The carrier is responsible for ensuring emergency equipment is available and in working order in commercial passenger vehicles."
+  },
+  {
+    "id": "q236",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "What minimum force must a cargo securement system withstand in a forward direction?",
+    "options": [
+      "0.5g deceleration",
+      "0.8g deceleration",
+      "1.0g deceleration",
+      "0.3g deceleration"
+    ],
+    "correct_answer": "0.8g deceleration",
+    "explanation": "The securement system must be able to withstand 0.8g deceleration in a forward direction, 0.5g in rearward and sideways directions, and downward force equal to at least 20% of the cargo weight."
+  },
+  {
+    "id": "q237",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "What is the working load limit requirement for tiedowns used to secure cargo?",
+    "options": [
+      "At least 25% of cargo weight",
+      "At least 50% of cargo weight",
+      "At least 75% of cargo weight",
+      "Equal to cargo weight"
+    ],
+    "correct_answer": "At least 50% of cargo weight",
+    "explanation": "The working load limit of tiedowns used to secure cargo must be at least 50 per cent of the cargo weight."
+  },
+  {
+    "id": "q238",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "How many tiedowns are required for an article that is 1.52 m long and weighs 600 kg, not prevented from moving forward?",
+    "options": [
+      "1 tiedown",
+      "2 tiedowns",
+      "3 tiedowns",
+      "4 tiedowns"
+    ],
+    "correct_answer": "2 tiedowns",
+    "explanation": "An article 1.52 m or shorter and over 500 kg requires 2 tiedowns if not prevented from moving forward."
+  },
+  {
+    "id": "q239",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "How many tiedowns are required for cargo that is 4.5 m long and not prevented from moving forward?",
+    "options": [
+      "2 tiedowns",
+      "3 tiedowns",
+      "4 tiedowns",
+      "5 tiedowns"
+    ],
+    "correct_answer": "3 tiedowns",
+    "explanation": "For cargo longer than 3.04 m, use 2 tiedowns plus 1 tiedown for every additional 3.04 m or part thereof. At 4.5 m, you need 3 tiedowns."
+  },
+  {
+    "id": "q240",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "When must you use a cover or tarp for aggregate loads like gravel or sand?",
+    "options": [
+      "Only during rain",
+      "If the load is likely to bounce, blow or drop from the moving vehicle",
+      "Only on highways",
+      "Never required"
+    ],
+    "correct_answer": "If the load is likely to bounce, blow or drop from the moving vehicle",
+    "explanation": "You must use a cover or tarp to secure aggregate loads if the load is made up of aggregate material and is likely to bounce, blow or drop from the moving vehicle."
+  },
+  {
+    "id": "q241",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "What must you do with load binder handles to prevent them from unlocking?",
+    "options": [
+      "Tape them",
+      "Lock every load binder handle using rope, wire, chain or a locking mechanism",
+      "Nothing, they lock automatically",
+      "Use rubber bands"
+    ],
+    "correct_answer": "Lock every load binder handle using rope, wire, chain or a locking mechanism",
+    "explanation": "Lock every load binder handle in place to prevent the handle from unlocking. Use rope, wire, chain or a locking mechanism. Using the free end of the chain is adequate."
+  },
+  {
+    "id": "q242",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "What percentage of the cargo weight does an unmarked friction mat provide in resistance to horizontal movement?",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correct_answer": "50%",
+    "explanation": "A friction mat which isn't marked by the manufacturer with a working load limit is assumed to provide resistance to horizontal movement equal to 50 per cent of the weight of the cargo resting on the mat."
+  },
+  {
+    "id": "q243",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "Can rub rails be used as anchor points for tiedowns?",
+    "options": [
+      "Yes, always",
+      "No, never",
+      "Yes, but only for light loads",
+      "Yes, if reinforced"
+    ],
+    "correct_answer": "No, never",
+    "explanation": "Rub rails must not be used as anchor points. Tiedowns should be located inboard of rub rails if possible."
+  },
+  {
+    "id": "q244",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "What is the minimum height required for a front-end structure to protect the vehicle operator?",
+    "options": [
+      "100 cm above the deck",
+      "122 cm above the deck",
+      "150 cm above the deck",
+      "183 cm above the deck"
+    ],
+    "correct_answer": "122 cm above the deck",
+    "explanation": "To protect the vehicle operator, a front-end structure must be no shorter than 122 cm above the deck, or the height at which it prevents cargo from moving forward."
+  },
+  {
+    "id": "q245",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "When must edge protectors be used with tiedowns?",
+    "options": [
+      "Always",
+      "Never",
+      "Where a tiedown could be cut or scraped where it contacts cargo",
+      "Only with wire rope"
+    ],
+    "correct_answer": "Where a tiedown could be cut or scraped where it contacts cargo",
+    "explanation": "Use edge protectors where a tiedown could be cut or scraped where it contacts cargo to prevent damage to the tiedown."
+  },
+  {
+    "id": "q246",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "What is dunnage?",
+    "options": [
+      "A type of tiedown",
+      "Spacing blocks, boards and mats that separate cargo from itself and its restraints",
+      "Extra cargo space",
+      "A loading ramp"
+    ],
+    "correct_answer": "Spacing blocks, boards and mats that separate cargo from itself and its restraints",
+    "explanation": "Dunnage is spacing blocks, boards and mats that separate cargo from itself and its restraints. It includes items like corner boards used with tiedowns."
+  },
+  {
+    "id": "q247",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "3"
+    ],
+    "question": "How does wheel base affect commercial vehicle turning?",
+    "options": [
+      "It has no effect",
+      "Longer wheel bases require more space to turn and create more off-tracking",
+      "Shorter wheel bases create more off-tracking",
+      "It only affects speed"
+    ],
+    "correct_answer": "Longer wheel bases require more space to turn and create more off-tracking",
+    "explanation": "The wheel base (distance between axles) affects turning radius and off-tracking. Longer wheel bases require more space to turn and create more off-tracking."
+  },
+  {
+    "id": "q248",
+    "chapter": 5,
+    "license_classes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "question": "How does a higher center of gravity affect vehicle stability?",
+    "options": [
+      "Improves stability on curves",
+      "Makes the vehicle more prone to rolling over on curves",
+      "Has no effect on stability",
+      "Only affects braking"
+    ],
+    "correct_answer": "Makes the vehicle more prone to rolling over on curves",
+    "explanation": "A higher center of gravity, common with tall loads or trucks with large wheels, makes vehicles less stable on curves and more prone to rolling over."
+  },
+  {
+    "id": "q249",
+    "chapter": 6,
+    "license_classes": [
+      "2",
+      "4"
+    ],
+    "question": "When must you report a defect or deficiency in your commercial passenger vehicle?",
+    "options": [
+      "Within a week",
+      "Within 24 hours",
+      "In writing at the time you find it or by the end of that day",
+      "Only if it affects safety"
+    ],
+    "correct_answer": "In writing at the time you find it or by the end of that day",
+    "explanation": "You must report any defect or deficiency that could make your vehicle unsafe in writing, given to the carrier you work for at the time you find the defect or by the end of that day."
+  },
+  {
+    "id": "q250",
+    "chapter": 6,
+    "license_classes": [
+      "4"
+    ],
+    "question": "What permit might some municipalities require for limousine and taxi drivers?",
+    "options": [
+      "A special license",
+      "A chauffeur's permit",
+      "A commercial permit",
+      "An operator's certificate"
+    ],
+    "correct_answer": "A chauffeur's permit",
+    "explanation": "Some municipalities require all limousine and taxi drivers to have a chauffeur's permit, usually issued by the municipal police after a police check and possibly a hospitality course."
+  },
+  {
+    "id": "q251",
+    "chapter": 8,
+    "license_classes": [
+      "Air Brakes"
+    ],
+    "question": "What is the main component that generates compressed air in an air brake system?",
+    "options": [
+      "The air tank",
+      "The compressor",
+      "The brake chamber",
+      "The governor"
+    ],
+    "correct_answer": "The compressor",
+    "explanation": "The compressor is the component that generates compressed air for the air brake system. It is typically driven by the engine."
+  },
+  {
+    "id": "q252",
+    "chapter": 8,
+    "license_classes": [
+      "Air Brakes"
+    ],
+    "question": "What is the purpose of the brake chamber in an air brake system?",
+    "options": [
+      "To store compressed air",
+      "To convert air pressure into mechanical force to apply the brakes",
+      "To regulate air pressure",
+      "To filter the air"
+    ],
+    "correct_answer": "To convert air pressure into mechanical force to apply the brakes",
+    "explanation": "The brake chamber converts air pressure into mechanical force through a pushrod that applies the brakes. When air pressure is applied, it pushes the diaphragm and extends the pushrod."
+  },
+  {
+    "id": "q253",
+    "chapter": 8,
+    "license_classes": [
+      "Air Brakes"
+    ],
+    "question": "What is the difference between long stroke and regular stroke brake chambers?",
+    "options": [
+      "Long stroke chambers are larger",
+      "Long stroke chambers have more pushrod travel to compensate for brake adjustment",
+      "Regular stroke chambers are more efficient",
+      "There is no significant difference"
+    ],
+    "correct_answer": "Long stroke chambers have more pushrod travel to compensate for brake adjustment",
+    "explanation": "Long stroke brake chambers have extended pushrod travel compared to regular stroke chambers, providing more adjustment range before the brakes go out of adjustment."
+  },
+  {
+    "id": "q254",
+    "chapter": 7,
+    "license_classes": [
+      "1"
+    ],
+    "question": "What component on a trailer fits into and locks with the fifth wheel?",
+    "options": [
+      "The coupling pin",
+      "The kingpin",
+      "The landing gear",
+      "The glad hands"
+    ],
+    "correct_answer": "The kingpin",
+    "explanation": "The kingpin is the coupling device on the trailer that fits into and locks with the fifth wheel on the tractor, creating a secure connection between the two units."
+  },
+  {
+    "id": "q255",
+    "chapter": 7,
+    "license_classes": [
+      "1"
+    ],
+    "question": "Before coupling a trailer, what should you inspect on the fifth wheel?",
+    "options": [
+      "Only the paint condition",
+      "Damage, lubrication, and security",
+      "Just the size",
+      "Only the mounting bolts"
+    ],
+    "correct_answer": "Damage, lubrication, and security",
+    "explanation": "Before coupling, inspect the fifth wheel for damage, proper lubrication, and security. If it slides, ensure it's locked in position to prevent unsafe coupling."
+  },
+  {
+    "id": "q256",
+    "chapter": 7,
+    "license_classes": [
+      "1"
+    ],
+    "question": "What must you ensure about spring brakes when coupling multiple trailers?",
+    "options": [
+      "They should be released",
+      "They should be applied before coupling",
+      "They should be disconnected",
+      "They are optional"
+    ],
+    "correct_answer": "They should be applied before coupling",
+    "explanation": "When coupling multiple trailers with spring brakes, ensure they're applied before coupling to prevent the trailer from rolling and causing injury or damage."
+  },
+  {
+    "id": "q257",
+    "chapter": 7,
+    "license_classes": [
+      "1"
+    ],
+    "question": "What are landing gear used for?",
+    "options": [
+      "Emergency braking",
+      "To support the trailer when uncoupled from the tractor",
+      "To level the trailer when loading",
+      "To stabilize during cornering"
+    ],
+    "correct_answer": "To support the trailer when uncoupled from the tractor",
+    "explanation": "Landing gear are retractable legs that support the front of a trailer when it is not coupled to a tractor. They must be fully raised and secured before driving."
+  },
+  {
+    "id": "q258",
+    "chapter": 7,
+    "license_classes": [
+      "1"
+    ],
+    "question": "What should you check on the kingpin before coupling?",
+    "options": [
+      "Only the color",
+      "Damage, wear, and proper size",
+      "Just the height",
+      "Only the threading"
+    ],
+    "correct_answer": "Damage, wear, and proper size",
+    "explanation": "Inspect the kingpin for damage, excessive wear, and proper size before coupling. A damaged or worn kingpin may not lock properly with the fifth wheel."
+  },
+  {
+    "id": "q259",
+    "chapter": 8,
+    "license_classes": [
+      "Air Brakes"
+    ],
+    "question": "What does a dual air brake system provide?",
+    "options": [
+      "Double braking power",
+      "Redundancy - if one system fails, the other can still stop the vehicle",
+      "Faster braking",
+      "Better fuel economy"
+    ],
+    "correct_answer": "Redundancy - if one system fails, the other can still stop the vehicle",
+    "explanation": "A dual air brake system provides two separate air brake systems so that if one fails, the other can still stop the vehicle, providing a critical safety backup."
+  },
+  {
+    "id": "q260",
+    "chapter": 8,
+    "license_classes": [
+      "Air Brakes"
+    ],
+    "question": "What component regulates when the air compressor loads and unloads?",
+    "options": [
+      "The brake valve",
+      "The governor",
+      "The safety valve",
+      "The reservoir"
+    ],
+    "correct_answer": "The governor",
+    "explanation": "The governor regulates when the air compressor loads (pumps air) and unloads (stops pumping), maintaining proper air pressure in the system typically between 100-125 psi."
+  },
+  {
+    "id": "q261",
+    "chapter": 8,
+    "license_classes": [
+      "Air Brakes"
+    ],
+    "question": "What is the function of the slack adjuster in an air brake system?",
+    "options": [
+      "To store air",
+      "To adjust the gap between brake shoes and drum",
+      "To compress air",
+      "To release spring brakes"
+    ],
+    "correct_answer": "To adjust the gap between brake shoes and drum",
+    "explanation": "The slack adjuster is a lever that connects the brake chamber pushrod to the brake camshaft and is used to adjust the gap between the brake shoes and the brake drum."
+  },
+  {
+    "id": "q262",
+    "chapter": 8,
+    "license_classes": [
+      "Air Brakes"
+    ],
+    "question": "When do spring brakes automatically engage?",
+    "options": [
+      "When you press the brake pedal",
+      "When air pressure drops too low",
+      "When the vehicle is moving",
+      "When the engine starts"
+    ],
+    "correct_answer": "When air pressure drops too low",
+    "explanation": "Spring brakes are held off by air pressure. When air pressure drops too low (typically below 40-60 psi), the springs automatically engage to stop the vehicle, acting as an emergency and parking brake."
+  },
+  {
+    "id": "q263",
+    "chapter": 8,
+    "license_classes": [
+      "Air Brakes"
+    ],
+    "question": "Why is it important to drain moisture from air brake system reservoirs?",
+    "options": [
+      "To increase capacity",
+      "To prevent freezing in cold weather and internal corrosion",
+      "To improve fuel economy",
+      "To reduce noise"
+    ],
+    "correct_answer": "To prevent freezing in cold weather and internal corrosion",
+    "explanation": "Moisture accumulates in air reservoirs and must be drained regularly to prevent freezing in cold weather, which can cause brake failure, and to prevent internal corrosion of system components."
+  },
+  {
+    "id": "q264",
+    "chapter": 8,
+    "license_classes": [
+      "Air Brakes"
+    ],
+    "question": "What is a 'glad hand' connection used for?",
+    "options": [
+      "Steering connections",
+      "Electrical connections",
+      "Air line connections between tractor and trailer",
+      "Hydraulic connections"
+    ],
+    "correct_answer": "Air line connections between tractor and trailer",
+    "explanation": "Glad hands are coupling devices that connect the air lines between the tractor and trailer, allowing air pressure to operate the trailer brakes. There are separate glad hands for service and emergency air lines."
+  },
+  {
+    "id": "q265",
+    "chapter": 8,
+    "license_classes": [
+      "Air Brakes"
+    ],
+    "question": "What should you do if the low air pressure warning activates while driving?",
+    "options": [
+      "Continue driving normally",
+      "Stop safely as soon as possible",
+      "Speed up to build air pressure",
+      "Ignore it if brakes seem to work"
+    ],
+    "correct_answer": "Stop safely as soon as possible",
+    "explanation": "If the low air pressure warning (light or buzzer) activates while driving, stop safely as soon as possible. Low air pressure means reduced braking ability and spring brakes may soon engage automatically."
+  },
+  {
+    "id": "q266",
+    "chapter": 8,
+    "license_classes": [
+      "Air Brakes"
+    ],
+    "question": "What is 'brake lag' in air brake systems?",
+    "options": [
+      "Brake wear",
+      "The time between pressing the brake pedal and when the brakes engage",
+      "Brake overheating",
+      "Brake adjustment"
+    ],
+    "correct_answer": "The time between pressing the brake pedal and when the brakes engage",
+    "explanation": "Brake lag is the brief time delay between when you press the brake pedal and when the air pressure travels through the system to apply the brakes. This is typically about half a second but affects stopping distance."
+  },
+  {
+    "id": "q267",
+    "chapter": 8,
+    "license_classes": [
+      "Air Brakes"
+    ],
+    "question": "How often should air brake components be inspected?",
+    "options": [
+      "Monthly",
+      "Before each trip during pre-trip inspection",
+      "Annually",
+      "Only when problems occur"
+    ],
+    "correct_answer": "Before each trip during pre-trip inspection",
+    "explanation": "Air brake components should be inspected before each trip as part of the pre-trip inspection to ensure all components are working properly and air pressure builds correctly."
+  },
+  {
+    "id": "q268",
+    "chapter": 8,
+    "license_classes": [
+      "Air Brakes"
+    ],
+    "question": "What does 'fanning' the brakes mean?",
+    "options": [
+      "Cooling the brakes",
+      "Rapidly pressing and releasing the brake pedal multiple times",
+      "Adjusting the brakes",
+      "Testing brake temperature"
+    ],
+    "correct_answer": "Rapidly pressing and releasing the brake pedal multiple times",
+    "explanation": "Fanning the brakes means rapidly pressing and releasing the brake pedal multiple times. This can dangerously deplete air pressure and should be avoided - use steady pressure instead."
+  },
+  {
+    "id": "q269",
+    "chapter": 8,
+    "license_classes": [
+      "Air Brakes"
+    ],
+    "question": "What is the purpose of the air dryer in modern air brake systems?",
+    "options": [
+      "To cool the air",
+      "To remove moisture from the compressed air before it enters the system",
+      "To increase air pressure",
+      "To filter dirt"
+    ],
+    "correct_answer": "To remove moisture from the compressed air before it enters the system",
+    "explanation": "The air dryer removes moisture from compressed air before it enters the air brake system, reducing the need for manual reservoir draining and preventing freezing in cold weather."
+  },
+  {
+    "id": "q270",
+    "chapter": 8,
+    "license_classes": [
+      "Air Brakes"
+    ],
+    "question": "At what approximate air pressure do spring brakes typically begin to apply?",
+    "options": [
+      "80-90 psi",
+      "60-70 psi",
+      "40-60 psi",
+      "20-30 psi"
+    ],
+    "correct_answer": "40-60 psi",
+    "explanation": "Spring brakes typically begin to apply automatically when air pressure drops to approximately 40-60 psi, depending on the specific vehicle setup. This provides an emergency stopping mechanism if air pressure is lost."
+  }
+]
