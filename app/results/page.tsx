@@ -169,13 +169,58 @@ export default function ResultsPage() {
               </div>
             </div>
 
+            {/* Questions Summary */}
+            <div className="mb-6 sm:mb-8">
+              <h3 className="text-lg sm:text-xl font-semibold text-gray-900 dark:text-white mb-4">
+                Questions Overview
+              </h3>
+              <div className="grid grid-cols-5 sm:grid-cols-10 gap-2 mb-3">
+                {test.questions.map((question, index) => {
+                  const answer = test.answers.find(a => a.questionId === question.id);
+                  const isCorrect = answer?.isCorrect === true;
+                  const isAnswered = answer?.selectedAnswer !== null;
+                  
+                  return (
+                    <div
+                      key={question.id}
+                      className={`aspect-square rounded-lg flex items-center justify-center text-sm font-semibold ${
+                        isCorrect
+                          ? 'bg-green-100 dark:bg-green-900/30 text-green-700 dark:text-green-400 border-2 border-green-500'
+                          : isAnswered
+                          ? 'bg-red-100 dark:bg-red-900/30 text-red-700 dark:text-red-400 border-2 border-red-500'
+                          : 'bg-gray-100 dark:bg-gray-700 text-gray-500 dark:text-gray-400 border-2 border-gray-300 dark:border-gray-600'
+                      }`}
+                      title={`Question ${index + 1}: ${isCorrect ? 'Correct' : isAnswered ? 'Incorrect' : 'Not answered'}`}
+                    >
+                      {index + 1}
+                    </div>
+                  );
+                })}
+              </div>
+              <div className="flex flex-wrap items-center gap-4 text-xs sm:text-sm">
+                <div className="flex items-center gap-2">
+                  <div className="w-4 h-4 bg-green-100 dark:bg-green-900/30 border-2 border-green-500 rounded"></div>
+                  <span className="text-gray-600 dark:text-gray-400">Correct</span>
+                </div>
+                <div className="flex items-center gap-2">
+                  <div className="w-4 h-4 bg-red-100 dark:bg-red-900/30 border-2 border-red-500 rounded"></div>
+                  <span className="text-gray-600 dark:text-gray-400">Incorrect</span>
+                </div>
+                <div className="flex items-center gap-2">
+                  <div className="w-4 h-4 bg-gray-100 dark:bg-gray-700 border-2 border-gray-300 dark:border-gray-600 rounded"></div>
+                  <span className="text-gray-600 dark:text-gray-400">Not answered</span>
+                </div>
+              </div>
+            </div>
+
             {/* Actions */}
             <div className="flex flex-col sm:flex-row gap-3 sm:gap-4">
               <button
                 onClick={handleReview}
-                className="flex-1 px-4 sm:px-6 py-2.5 sm:py-3 bg-indigo-600 text-white rounded-lg font-medium hover:bg-indigo-700 transition-colors text-sm sm:text-base"
+                className="flex-1 px-4 sm:px-6 py-2.5 sm:py-3 bg-indigo-600 text-white rounded-lg font-medium hover:bg-indigo-700 transition-colors text-sm sm:text-base flex items-center justify-center gap-2"
               >
-                Review Answers
+                <span>📋</span>
+                View Detailed Review
               </button>
               <button
                 onClick={handleTryAgain}
@@ -183,6 +228,27 @@ export default function ResultsPage() {
               >
                 Take Another Test
               </button>
+            </div>
+          </div>
+
+          {/* Call to Action for Review */}
+          <div className="bg-indigo-50 dark:bg-indigo-900/20 border-2 border-indigo-200 dark:border-indigo-800 rounded-xl p-4 sm:p-6 mb-6">
+            <div className="flex items-start gap-3">
+              <span className="text-2xl">📋</span>
+              <div className="flex-1">
+                <h3 className="text-lg font-semibold text-indigo-900 dark:text-indigo-300 mb-2">
+                  Review All Questions & Answers
+                </h3>
+                <p className="text-sm text-indigo-800 dark:text-indigo-200 mb-3">
+                  See detailed explanations for each question, your answers, and the correct answers to learn from your mistakes.
+                </p>
+                <button
+                  onClick={handleReview}
+                  className="px-4 py-2 bg-indigo-600 text-white rounded-lg font-medium hover:bg-indigo-700 transition-colors text-sm"
+                >
+                  Go to Detailed Review →
+                </button>
+              </div>
             </div>
           </div>
 

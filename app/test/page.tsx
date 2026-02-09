@@ -72,6 +72,9 @@ export default function TestPage() {
   };
 
   const isLastQuestion = test.currentQuestionIndex === test.questions.length - 1;
+  const answeredCount = test.answers.filter(a => a.selectedAnswer !== null).length;
+  const allQuestionsAnswered = answeredCount === test.questions.length;
+  const isCurrentQuestionAnswered = selectedOption !== null;
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 dark:from-gray-900 dark:to-gray-800">
@@ -157,6 +160,20 @@ export default function TestPage() {
 
           {/* Navigation */}
           <div className="bg-white dark:bg-gray-800 rounded-b-2xl shadow-lg p-4 sm:p-6">
+            {!isCurrentQuestionAnswered && !isLastQuestion && (
+              <div className="mb-4 p-3 bg-blue-50 dark:bg-blue-900/20 border border-blue-200 dark:border-blue-800 rounded-lg">
+                <p className="text-sm text-blue-800 dark:text-blue-200 text-center">
+                  💡 Please select an answer to proceed to the next question
+                </p>
+              </div>
+            )}
+            {isLastQuestion && !allQuestionsAnswered && (
+              <div className="mb-4 p-3 bg-yellow-50 dark:bg-yellow-900/20 border border-yellow-200 dark:border-yellow-800 rounded-lg">
+                <p className="text-sm text-yellow-800 dark:text-yellow-200 text-center">
+                  ⚠️ Please answer all questions before submitting the test ({answeredCount}/{test.questions.length} answered)
+                </p>
+              </div>
+            )}
             <div className="flex flex-col sm:flex-row justify-between items-center gap-3">
               <button
                 onClick={handlePrevious}
@@ -177,14 +194,18 @@ export default function TestPage() {
               {isLastQuestion ? (
                 <button
                   onClick={handleSubmitTest}
-                  className="w-full sm:w-auto px-4 sm:px-6 py-2 bg-green-600 text-white rounded-lg font-medium hover:bg-green-700 transition-colors text-sm sm:text-base"
+                  disabled={!allQuestionsAnswered}
+                  className="w-full sm:w-auto px-4 sm:px-6 py-2 bg-green-600 text-white rounded-lg font-medium hover:bg-green-700 disabled:bg-gray-400 disabled:cursor-not-allowed transition-colors text-sm sm:text-base"
+                  title={!allQuestionsAnswered ? `Please answer all questions (${answeredCount}/${test.questions.length})` : ''}
                 >
                   Submit Test
                 </button>
               ) : (
                 <button
                   onClick={handleNext}
-                  className="w-full sm:w-auto px-4 sm:px-6 py-2 bg-indigo-600 text-white rounded-lg font-medium hover:bg-indigo-700 transition-colors text-sm sm:text-base"
+                  disabled={!isCurrentQuestionAnswered}
+                  className="w-full sm:w-auto px-4 sm:px-6 py-2 bg-indigo-600 text-white rounded-lg font-medium hover:bg-indigo-700 disabled:bg-gray-400 disabled:cursor-not-allowed transition-colors text-sm sm:text-base"
+                  title={!isCurrentQuestionAnswered ? 'Please answer this question first' : ''}
                 >
                   Next
                 </button>
