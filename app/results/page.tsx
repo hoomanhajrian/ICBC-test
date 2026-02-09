@@ -58,27 +58,27 @@ export default function ResultsPage() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 dark:from-gray-900 dark:to-gray-800">
-      <div className="container mx-auto px-4 py-16">
+      <div className="container mx-auto px-4 py-8 sm:py-12 lg:py-16">
         <div className="max-w-3xl mx-auto">
           {/* Results Card */}
-          <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-2xl p-8 mb-6">
+          <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-2xl p-4 sm:p-6 lg:p-8 mb-6">
             {/* Pass/Fail Header */}
-            <div className={`text-center mb-8 p-6 rounded-xl ${
+            <div className={`text-center mb-6 sm:mb-8 p-4 sm:p-6 rounded-xl ${
               isPassing
                 ? 'bg-green-100 dark:bg-green-900/30'
                 : 'bg-red-100 dark:bg-red-900/30'
             }`}>
-              <div className="text-6xl mb-4">
+              <div className="text-4xl sm:text-5xl lg:text-6xl mb-3 sm:mb-4">
                 {isPassing ? '🎉' : '📚'}
               </div>
-              <h1 className={`text-4xl font-bold mb-2 ${
+              <h1 className={`text-2xl sm:text-3xl lg:text-4xl font-bold mb-2 ${
                 isPassing
                   ? 'text-green-700 dark:text-green-400'
                   : 'text-red-700 dark:text-red-400'
               }`}>
                 {isPassing ? 'Congratulations!' : 'Keep Practicing!'}
               </h1>
-              <p className={`text-lg ${
+              <p className={`text-sm sm:text-base lg:text-lg ${
                 isPassing
                   ? 'text-green-600 dark:text-green-300'
                   : 'text-red-600 dark:text-red-300'
@@ -90,19 +90,19 @@ export default function ResultsPage() {
             </div>
 
             {/* Score */}
-            <div className="text-center mb-8">
+            <div className="text-center mb-6 sm:mb-8">
               <div className="inline-block">
-                <div className="text-7xl font-bold text-indigo-600 dark:text-indigo-400">
+                <div className="text-5xl sm:text-6xl lg:text-7xl font-bold text-indigo-600 dark:text-indigo-400">
                   {results.score}%
                 </div>
-                <div className="text-gray-600 dark:text-gray-400 text-lg mt-2">
+                <div className="text-gray-600 dark:text-gray-400 text-base sm:text-lg mt-2">
                   Your Score
                 </div>
               </div>
             </div>
 
             {/* Stats Grid */}
-            <div className="grid md:grid-cols-3 gap-6 mb-8">
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 sm:gap-6 mb-6 sm:mb-8">
               <div className="bg-gradient-to-br from-indigo-50 to-blue-50 dark:from-gray-700 dark:to-gray-600 p-6 rounded-xl text-center">
                 <div className="text-3xl font-bold text-indigo-600 dark:text-indigo-400">
                   {results.correctAnswers}/{results.totalQuestions}
@@ -132,8 +132,8 @@ export default function ResultsPage() {
             </div>
 
             {/* Performance Breakdown */}
-            <div className="mb-8">
-              <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">
+            <div className="mb-6 sm:mb-8">
+              <h3 className="text-lg sm:text-xl font-semibold text-gray-900 dark:text-white mb-4">
                 Performance
               </h3>
               <div className="space-y-3">
@@ -170,16 +170,16 @@ export default function ResultsPage() {
             </div>
 
             {/* Actions */}
-            <div className="flex flex-col sm:flex-row gap-4">
+            <div className="flex flex-col sm:flex-row gap-3 sm:gap-4">
               <button
                 onClick={handleReview}
-                className="flex-1 px-6 py-3 bg-indigo-600 text-white rounded-lg font-medium hover:bg-indigo-700 transition-colors"
+                className="flex-1 px-4 sm:px-6 py-2.5 sm:py-3 bg-indigo-600 text-white rounded-lg font-medium hover:bg-indigo-700 transition-colors text-sm sm:text-base"
               >
                 Review Answers
               </button>
               <button
                 onClick={handleTryAgain}
-                className="flex-1 px-6 py-3 bg-gray-200 dark:bg-gray-700 text-gray-900 dark:text-gray-100 rounded-lg font-medium hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
+                className="flex-1 px-4 sm:px-6 py-2.5 sm:py-3 bg-gray-200 dark:bg-gray-700 text-gray-900 dark:text-gray-100 rounded-lg font-medium hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors text-sm sm:text-base"
               >
                 Take Another Test
               </button>
@@ -188,7 +188,7 @@ export default function ResultsPage() {
 
           {/* Tips */}
           {!isPassing && (
-            <div className="bg-yellow-50 dark:bg-yellow-900/20 border-2 border-yellow-200 dark:border-yellow-800 rounded-xl p-6">
+            <div className="bg-yellow-50 dark:bg-yellow-900/20 border-2 border-yellow-200 dark:border-yellow-800 rounded-xl p-4 sm:p-6">
               <h3 className="text-lg font-semibold text-yellow-900 dark:text-yellow-300 mb-2">
                 💡 Study Tips
               </h3>

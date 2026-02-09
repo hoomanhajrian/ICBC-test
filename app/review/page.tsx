@@ -36,29 +36,29 @@ export default function ReviewPage() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 dark:from-gray-900 dark:to-gray-800">
-      <div className="container mx-auto px-4 py-8">
+      <div className="container mx-auto px-4 py-4 sm:py-8">
         <div className="max-w-4xl mx-auto">
           {/* Header */}
-          <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-6 mb-6">
-            <div className="flex justify-between items-center">
-              <div>
-                <h1 className="text-3xl font-bold text-gray-900 dark:text-white">
+          <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-4 sm:p-6 mb-4 sm:mb-6">
+            <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
+              <div className="flex-1">
+                <h1 className="text-2xl sm:text-3xl font-bold text-gray-900 dark:text-white">
                   Review Your Answers
                 </h1>
-                <p className="text-gray-600 dark:text-gray-400 mt-1">
+                <p className="text-sm sm:text-base text-gray-600 dark:text-gray-400 mt-1">
                   Class {test.licenseClass} - {test.questions.length} Questions
                 </p>
               </div>
-              <div className="flex gap-2">
+              <div className="flex gap-2 w-full sm:w-auto">
                 <button
                   onClick={handleBackToResults}
-                  className="px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-900 dark:text-gray-100 rounded-lg font-medium hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
+                  className="flex-1 sm:flex-none px-3 sm:px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-900 dark:text-gray-100 rounded-lg font-medium hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors text-sm sm:text-base"
                 >
                   Back to Results
                 </button>
                 <button
                   onClick={handleStartNew}
-                  className="px-4 py-2 bg-indigo-600 text-white rounded-lg font-medium hover:bg-indigo-700 transition-colors"
+                  className="flex-1 sm:flex-none px-3 sm:px-4 py-2 bg-indigo-600 text-white rounded-lg font-medium hover:bg-indigo-700 transition-colors text-sm sm:text-base"
                 >
                   New Test
                 </button>
@@ -67,7 +67,7 @@ export default function ReviewPage() {
           </div>
 
           {/* Questions Review */}
-          <div className="space-y-6">
+          <div className="space-y-4 sm:space-y-6">
             {test.questions.map((question, qIndex) => {
               const answer = test.answers.find(a => a.questionId === question.id);
               const userAnswer = answer?.selectedAnswer;
@@ -77,7 +77,7 @@ export default function ReviewPage() {
               return (
                 <div
                   key={question.id}
-                  className={`bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-6 border-l-4 ${
+                  className={`bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-4 sm:p-6 border-l-4 ${
                     isCorrect
                       ? 'border-green-500'
                       : userAnswer !== null
@@ -86,8 +86,8 @@ export default function ReviewPage() {
                   }`}
                 >
                   {/* Question Header */}
-                  <div className="flex items-start justify-between mb-4">
-                    <div className="flex-1">
+                  <div className="flex items-start justify-between gap-3 mb-4">
+                    <div className="flex-1 min-w-0">
                       <div className="flex items-center gap-2 mb-2">
                         <span className="px-3 py-1 bg-indigo-100 dark:bg-indigo-900 text-indigo-700 dark:text-indigo-300 rounded-full text-sm font-medium">
                           Question {qIndex + 1}
@@ -101,14 +101,14 @@ export default function ReviewPage() {
                       <p className="text-sm text-gray-600 dark:text-gray-400 mb-3">
                         {question.chapter}
                       </p>
-                      <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                      <h3 className="text-base sm:text-lg font-semibold text-gray-900 dark:text-white break-words">
                         {question.question}
                       </h3>
                     </div>
-                    <div className="ml-4">
+                    <div className="flex-shrink-0">
                       {isCorrect ? (
-                        <div className="w-10 h-10 rounded-full bg-green-100 dark:bg-green-900/30 flex items-center justify-center">
-                          <svg className="w-6 h-6 text-green-600 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20">
+                        <div className="w-8 h-8 sm:w-10 sm:h-10 rounded-full bg-green-100 dark:bg-green-900/30 flex items-center justify-center">
+                          <svg className="w-5 h-5 sm:w-6 sm:h-6 text-green-600 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20">
                             <path
                               fillRule="evenodd"
                               d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
@@ -117,8 +117,8 @@ export default function ReviewPage() {
                           </svg>
                         </div>
                       ) : userAnswer !== null ? (
-                        <div className="w-10 h-10 rounded-full bg-red-100 dark:bg-red-900/30 flex items-center justify-center">
-                          <svg className="w-6 h-6 text-red-600 dark:text-red-400" fill="currentColor" viewBox="0 0 20 20">
+                        <div className="w-8 h-8 sm:w-10 sm:h-10 rounded-full bg-red-100 dark:bg-red-900/30 flex items-center justify-center">
+                          <svg className="w-5 h-5 sm:w-6 sm:h-6 text-red-600 dark:text-red-400" fill="currentColor" viewBox="0 0 20 20">
                             <path
                               fillRule="evenodd"
                               d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z"
@@ -127,8 +127,8 @@ export default function ReviewPage() {
                           </svg>
                         </div>
                       ) : (
-                        <div className="w-10 h-10 rounded-full bg-gray-100 dark:bg-gray-700 flex items-center justify-center">
-                          <span className="text-gray-500 dark:text-gray-400">—</span>
+                        <div className="w-8 h-8 sm:w-10 sm:h-10 rounded-full bg-gray-100 dark:bg-gray-700 flex items-center justify-center">
+                          <span className="text-base sm:text-lg text-gray-500 dark:text-gray-400">—</span>
                         </div>
                       )}
                     </div>
@@ -143,7 +143,7 @@ export default function ReviewPage() {
                       return (
                         <div
                           key={index}
-                          className={`p-4 rounded-lg border-2 ${
+                          className={`p-3 sm:p-4 rounded-lg border-2 ${
                             isCorrectOption
                               ? 'border-green-500 bg-green-50 dark:bg-green-900/20'
                               : isUserAnswer && !isCorrect
@@ -172,8 +172,8 @@ export default function ReviewPage() {
                                 </svg>
                               )}
                             </div>
-                            <div className="flex-1">
-                              <p className={`${
+                            <div className="flex-1 min-w-0">
+                              <p className={`text-sm sm:text-base break-words ${
                                 isCorrectOption
                                   ? 'text-green-900 dark:text-green-100 font-medium'
                                   : isUserAnswer && !isCorrect
@@ -200,7 +200,7 @@ export default function ReviewPage() {
                   </div>
 
                   {/* Explanation */}
-                  <div className="bg-indigo-50 dark:bg-indigo-900/20 rounded-lg p-4 border border-indigo-200 dark:border-indigo-800">
+                  <div className="bg-indigo-50 dark:bg-indigo-900/20 rounded-lg p-3 sm:p-4 border border-indigo-200 dark:border-indigo-800">
                     <h4 className="font-semibold text-indigo-900 dark:text-indigo-300 mb-2">
                       Explanation
                     </h4>
@@ -214,17 +214,17 @@ export default function ReviewPage() {
           </div>
 
           {/* Bottom Actions */}
-          <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-6 mt-6">
-            <div className="flex justify-center gap-4">
+          <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-4 sm:p-6 mt-4 sm:mt-6">
+            <div className="flex flex-col sm:flex-row justify-center gap-3 sm:gap-4">
               <button
                 onClick={handleBackToResults}
-                className="px-6 py-3 bg-gray-200 dark:bg-gray-700 text-gray-900 dark:text-gray-100 rounded-lg font-medium hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
+                className="w-full sm:w-auto px-4 sm:px-6 py-2.5 sm:py-3 bg-gray-200 dark:bg-gray-700 text-gray-900 dark:text-gray-100 rounded-lg font-medium hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors text-sm sm:text-base"
               >
                 Back to Results
               </button>
               <button
                 onClick={handleStartNew}
-                className="px-6 py-3 bg-indigo-600 text-white rounded-lg font-medium hover:bg-indigo-700 transition-colors"
+                className="w-full sm:w-auto px-4 sm:px-6 py-2.5 sm:py-3 bg-indigo-600 text-white rounded-lg font-medium hover:bg-indigo-700 transition-colors text-sm sm:text-base"
               >
                 Take Another Test
               </button>

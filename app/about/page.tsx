@@ -7,22 +7,22 @@ export default function AboutPage() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 dark:from-gray-900 dark:to-gray-800">
-      <div className="container mx-auto px-4 py-16">
+      <div className="container mx-auto px-4 py-8 sm:py-12 lg:py-16">
         <div className="max-w-3xl mx-auto">
           {/* Header */}
-          <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-xl p-8 mb-6">
+          <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-xl p-4 sm:p-6 lg:p-8 mb-6">
             <button
               onClick={() => router.push('/')}
-              className="mb-6 text-indigo-600 dark:text-indigo-400 hover:text-indigo-700 dark:hover:text-indigo-300 font-medium"
+              className="mb-4 sm:mb-6 text-sm sm:text-base text-indigo-600 dark:text-indigo-400 hover:text-indigo-700 dark:hover:text-indigo-300 font-medium"
             >
               ← Back to Home
             </button>
             
-            <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">
+            <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-900 dark:text-white mb-4">
               About This Project
             </h1>
             
-            <div className="space-y-6 text-gray-700 dark:text-gray-300">
+            <div className="space-y-4 sm:space-y-6 text-sm sm:text-base text-gray-700 dark:text-gray-300">
               {/* Open Source */}
               <section>
                 <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mb-3">
@@ -53,7 +53,7 @@ export default function AboutPage() {
               </section>
 
               {/* Disclaimer */}
-              <section className="bg-yellow-50 dark:bg-yellow-900/20 border-2 border-yellow-200 dark:border-yellow-800 rounded-xl p-6">
+              <section className="bg-yellow-50 dark:bg-yellow-900/20 border-2 border-yellow-200 dark:border-yellow-800 rounded-xl p-4 sm:p-6">
                 <h2 className="text-2xl font-semibold text-yellow-900 dark:text-yellow-300 mb-3">
                   ⚠️ Important Disclaimer
                 </h2>
@@ -74,7 +74,7 @@ export default function AboutPage() {
 
               {/* Technology */}
               <section>
-                <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mb-3">
+                <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 dark:text-white mb-2 sm:mb-3">
                   💻 Technology Stack
                 </h2>
                 <p className="leading-relaxed mb-3">
@@ -91,7 +91,7 @@ export default function AboutPage() {
 
               {/* Study Resources */}
               <section>
-                <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mb-3">
+                <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 dark:text-white mb-2 sm:mb-3">
                   📚 Official Study Resources
                 </h2>
                 <p className="leading-relaxed mb-3">
